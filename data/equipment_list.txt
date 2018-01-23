@@ -1,0 +1,3399 @@
+# -------------------------------------------------------------------------------
+# Author:  Richard Bishop
+# Version: 0.89, 26th December 2010
+# URL:     https://www.gamefaqs.com/ps/197338-final-fantasy-ix/faqs/33383
+# -------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+C.                             HAMMERS [Ham]
+-------------------------------------------------------------------------------
+Name:      Hammer
+Info:      "Cinna's hammer"
+Price:     N/A
+Sell:      125 Gil
+Attack:    12
+Abilities: N/A
+Used by:   Cinna
+Location:  Initially equipped to Cinna                    (Disc 1)
+        :  Give Queen Stella at Treno all 13 Stellazzio's (Disc 4)
+
+
+-------------------------------------------------------------------------------
+D.                        DAGGERS and THIEF SWORDS [D+T]
+-------------------------------------------------------------------------------
+Name:      Dagger
+Info:      "Weapon used by thieves"
+Price:     320 Gil
+Sell:      160 Gil
+Attack:    12
+Abilities: Flee
+Used by:   Zidane
+Location:  Initially equipped to Zidane           (Disc 1)
+        :  Buy from Dali                          (Disc 1/2/3/4)
+        :  Buy from Lindblum                      (Disc 1/2)
+        :  Buy from Treno                         (Disc 2/3/4)
+        :  Buy from Madain Sari                   (Disc 2/3/4)
+        :  Buy from Moorock's Mogshop in Bran Bal (Disc 3)
+        :  Found in Ipsen's Castle                (Disc 3/4)
+
+Name:      Mage Masher
+Info:      "Weapon originally used for combating mages"
+Price:     500 Gil
+Sell:      250 Gil
+Attack:    14
+Add ST:    Silence
+Abilities: Detect and Flee
+Used by:   Zidane
+Location:  Steal from Masked Man                       (Disc 1)
+        :  Found in the Ice Cavern                     (Disc 1)
+        :  Buy from Dali                               (Disc 1/2/3/4)
+        :  Buy from Lindblum                           (Disc 1/2)
+        :  Buy from Treno                              (Disc 2/3/4)
+        :  Buy from the Black Mage Village             (Disc 2/3)
+        :  Buy from Madain Sari                        (Disc 2/3/4)
+        :  Buy from Daguerreo                          (Disc 3)
+        :  Buy from Kumool's Mogshop in Ipsen's Castle (Disc 3/4)
+        :  Buy from Moorock's Mogshop in Bran Bal      (Disc 3)
+
+Name:      Mythril Dagger
+Info:      "Thief's dagger made of mythril"
+Price:     950 Gil
+Sell:      475 Gil
+Attack:    18
+Abilities: Bandit
+Used by:   Zidane
+Location:  Steal from Sea Lion                         (Disc 1)
+        :  Buy from Lindblum                           (Disc 1/2)
+        :  Found in Treno                              (Disc 2/3/4)
+        :  Buy from Treno                              (Disc 2/3/4)
+        :  Buy from the Black Mage Village             (Disc 2/3)
+        :  Buy from Madain Sari                        (Disc 2/3/4)
+        :  Buy from Alexandria                         (Disc 3/4)
+        :  Buy from Esto Gaza before the Desert Palace (Disc 3)
+        :  Buy from Daguerreo                          (Disc 3)
+        :  Buy from Moorock's Mogshop in Bran Bal      (Disc 3)
+
+Name:      Butterfly Sword
+Info:      "Standard thief sword"
+Price:     300 Gil
+Sell:      650 Gil
+Attack:    21
+Add ST:    Silence
+Abilities: Protect Girls and What's That!?
+Used by:   Zidane
+Location:  Synth at Lindblum               (Disc 1/2)
+        :  Synth at Treno                  (Disc 2)
+        :  Synth at the Black Mage Village (Disc 2/3/4)
+
+Name:      The Ogre
+Info:      "Standard thief sword"
+Price:     700 Gil
+Sell:      850 Gil
+Attack:    24
+Add ST:    Darkness
+Abilities: Soul Blade
+Used by:   Zidane
+Location:  Synth at Lindblum               (Disc 1/2/3/4)
+        :  Synth at Treno                  (Disc 2/3/4)
+        :  Found in Pinnacle Rocks         (Disc 2)
+        :  Synth at the Black Mage Village (Disc 2/3/4)
+        :  Synth at Alexandria             (Disc 3/4)
+
+Name:      Gladius
+Info:      "Light dagger that is easy to handle"
+Price:     2300 Gil
+Sell:      1150 Gil
+Attack:    30
+Add ST:    Slow
+Abilities: Annoy and Lucky Seven
+Used by:   Zidane
+Location:  Steal from Lani                              (Disc 2)
+        :  Buy from the Black Mage Village              (Disc 2/3)
+        :  Buy from Madain Sari                         (Disc 2/3/4)
+        :  Buy from Alexandria                          (Disc 3/4)
+        :  Buy from Treno                               (Disc 3/4)
+        :  Buy from Esto Gaza after the Desert Palace   (Disc 3)
+        :  Buy from Daguerreo                           (Disc 3)
+        :  Buy from Moorock's Mogshop in Bran Bal       (Disc 3)
+
+Name:      Exploda
+Info:      "Sword made by processing trouble knife"
+Price:     1000 Gil
+Sell:      1400 Gil
+Attack:    31
+Add ST:    Trouble
+Abilities: Lucky Seven and Sacrifice
+Used by:   Zidane
+Location:  Synth at Lindblum               (Disc 2/3/4)
+        :  Synth at the Black Mage Village (Disc 2/3/4)
+        :  Found in Madain Sari            (Disc 2)
+        :  Synth at Alexandria             (Disc 3/4)
+        :  Synth at Treno                  (Disc 3/4)
+
+Name:      Rune Tooth
+Info:      "Also known as 'The viper'"
+Price:     2000 Gil
+Sell:      1900 Gil
+Attack:    37
+Add ST:    Poison
+Abilities: Lucky Seven
+Used by:   Zidane
+Location:  Synth at the Black Mage Village (Disc 2/3/4)
+        :  Synth at Alexandria             (Disc 3/4)
+        :  Synth at Treno                  (Disc 3/4)
+        :  Synth at Lindblum               (Disc 3/4)
+
+Name:      Zorlin Shape
+Info:      "Popular weapon among thieves"
+Price:     6000 Gil
+Sell:      3000 Gil
+Attack:    42
+Abilities: Flee
+Used by:   Zidane
+Location:  Buy from Esto Gaza after the Desert Palace  (Disc 3)
+        :  Buy from Daguerreo                          (Disc 3)
+        :  Buy from Moorock's Mogshop in Bran Bal      (Disc 3)
+
+Name:      Angel Bless
+Info:      Weapon with an angel's spirit dwelling inside"
+Price:     9000 Gil
+Sell:      3500 Gil
+Attack:    44
+Add ST:    Confuse
+Abilities: Thievery
+Used by:   Zidane
+Location:  Synth at Alexandria             (Disc 3/4)
+        :  Synth at Treno                  (Disc 3/4)
+        :  Synth at Lindblum               (Disc 3/4)
+        :  Synth at Daguerreo              (Disc 3/4)
+        :  Synth at the Black Mage Village (Disc 4)
+
+Name       Sargatanas
+Info:      "Sword made by processing 'Epitaph's fragment'"
+Price:     12000 Gil
+Sell:      4750
+Attack:    53
+Add ST:    Petrify
+Abilities: Annoy
+Used by:   Zidane
+Location:  Synth at Daguerreo              (Disc 3/4)
+        :  Synth at the Black Mage Village (Disc 4)
+
+Name:      Masamune
+Info:      "Sword from a foreign land"
+Price:     16000 Gil
+Sell:      6500 Gil
+Attack:    62
+Add ST:    Doom
+Magic:     +2
+Abilities: Sacrifice
+Used by:   Zidane
+Location:  Synth at the Black Mage Village (Disc 4)
+        :  Steal from Maliris              (Disc 4)
+
+Name:      Orichalcon
+Info:      "The most powerful thief's sword"
+Price:     17000 Gil
+Sell:      8500 Gil
+Attack:    71
+Speed:     +1
+Abilities: Detect
+Used by:   Zidane
+Location:  Steal from Taharka                     (Disc 3)
+        :  Buy from Moorock's Mogshop in Bran Bal (Disc 3)
+        :  Buy from Daguerreo                     (Disc 4)
+
+Name:      The Tower
+Info:      "Weapon that defines a great thief"
+Price:     N/A
+Sell:      15000 Gil
+Attack:    86
+Add ST:    Mini
+Abilities: Lucky Seven and Thievery
+Used by:   Zidane
+Locations: At the end of the room in Memoria called Recollection, (Disc 4)
+           there is a ledge sticking out. Check the bottom right
+           corner of this ledge
+
+Name:      Ultima Weapon
+Info:      "Considered the most powerful weapon in the world"
+Price:     N/A
+Sell:      20000 Gil
+Attack:    100
+Add ST:    Sleep
+Abilities: Flee
+Used by:   Zidane
+Location:  Found in the Dive Spot where Shimmering Island was (Disc 4)
+
+
+-------------------------------------------------------------------------------
+E.                              STAFFS [Stf]
+-------------------------------------------------------------------------------
+Name:      Mage Staff
+Info:      "Staff used by black mages"
+Price:     320 Gil
+Sell:      160 Gil
+Attack:    12
+Abilities: Fire
+Used by:   Vivi
+Location:  Initially equipped to Vivi      (Disc 1)
+        :  Buy from Dali                   (Disc 1/2/3/4)
+        :  Buy from the Black Mage Village (Disc 2/3)
+        :  Found in Ipsen's Castle         (Disc 3/4)
+
+Name:      Ice Staff
+Info:      "Staff with a divine ice power dwelling inside"
+Price:     980 Gil
+Sell:      490 Gil
+Attack:    16
+Element:   Ice
+Abilities: Blizzara and Slow
+Used by:   Vivi
+Location:  Steal from Gizamaluke                          (Disc 1)
+        :  Buy from Treno                                 (Disc 2)
+        :  Found in the Cleyra Tree Trunk                 (Disc 2)
+        :  Buy from Burmecian Dan's Weapon Shop in Cleyra (Disc 2)
+        :  Buy from Lindblum                              (Disc 2)
+        :  Buy from Conde Petie                           (Disc 2/3)
+        :  Buy from the Black Mage Village                (Disc 2/3)
+        :  Buy from Alexandria                            (Disc 3/4)
+
+Name:      Lightning Staff
+Info:      "Staff with a divine thunder power dwelling inside"
+Price:     1200 Gil
+Sell:      600 Gil
+Attack:    16
+Element:   Thunder
+Abilities: Poison and Thundara
+Used by:   Vivi
+Location:  Found in Burmecia                              (Disc 1/2/3/4)
+        :  Steal from Black Waltz #3                      (Disc 2)
+        :  Buy from Treno                                 (Disc 2)
+        :  Buy from Lindblum                              (Disc 2)
+        :  Buy from Conde Petie                           (Disc 2/3)
+        :  Buy from the Black Mage Village                (Disc 2/3)
+        :  Buy from Alexandria                            (Disc 3/4)
+
+Name:      Flame Staff
+Info:      "Staff with a divine fire power dwelling inside"
+Price:     1100 Gil
+Sell:      550 Gil
+Attack:    16
+Element:   Fire
+Abilities: Fira and Sleep
+Used by:   Vivi
+Location:  Steal from Black Waltz #3                      (Disc 2)
+        :  Buy from Treno                                 (Disc 2)
+        :  Found in the Cleyra Tree Trunk                 (Disc 2)
+        :  Buy from Burmecian Dan's Weapon Shop in Cleyra (Disc 2)
+        :  Buy from Lindblum                              (Disc 2)
+        :  Buy from Conde Petie                           (Disc 2/3)
+        :  Buy from the Black Mage Village                (Disc 2/3)
+        :  Buy from Alexandria                            (Disc 3/4)
+
+Name:      Oak Staff
+Info:      "Staff made from a legendary tree"
+Price:     2400 Gil
+Sell:      1200 Gil
+Attack:    23
+Add ST:    Slow
+Abilities: Bio, Drain and Stop
+Used by:   Vivi
+Location:  Found in the Chocograph 11, Small Beach     (Disc 1/2/3/4)
+        :  Steal from Ralvuimago                       (Disc 2)
+        :  Buy from Conde Petie                        (Disc 2/3)
+        :  Buy from the Black Mage Village             (Disc 2/3)
+        :  Steal from Soul Cage                        (Disc 2)
+        :  Buy from Alexandria                         (Disc 3/4)
+        :  Buy from Treno                              (Disc 3/4)
+        :  Buy from Kumool's Mogshop in Ipsen's Castle (Disc 3/4)
+
+Name:      Cypress Pile
+Info:      "Weapon that radiates mysterious light"
+Price:     3200 Gil
+Sell:      1600 Gil
+Attack:    27
+Add ST:    Confuse
+Abilities: Break, Comet and Demi
+Used by:   Vivi
+Location:  Buy from Lindblum                              (Disc 3/4)
+        :  Buy from Mimoza's Mogshop in Oeilvert          (Disc 3)
+        :  Buy from Mojito's Mogshop in the Desert Palace (Disc 3)
+        :  Buy from Esto Gaza after the Desert Palace     (Disc 3)
+
+Name:      Octagon Rod
+Info:      "Staff with a water god dwelling inside"
+Price:     4500 Gil
+Sell:      2250 Gil
+Attack:    29
+Add ST:    Trouble
+Element:   Absorbs Water/Wind, enhances Water, weak against Wind
+Abilities: Blizzaga, Firaga and Thundaga
+Used by:   Vivi
+Location:  Buy from Esto Gaza after the Desert Palace (Disc 3)
+        :  Buy from Daguerreo                         (Disc 3)
+
+Name:      High Mage Staff
+Info:      "Staff that holds powerful magic"
+Price:     6000 Gil
+Sell:      3000 Gil
+Attack:    32
+Add ST:    Silence
+Abilities: Meteor and Osmose
+Used by:   Vivi
+Location:  Found in the Chocograph 13, Forbidden Forest (Disc 3/4)
+        :  Buy from the Black Mage Village              (Disc 4)
+
+Name:      Mace of Zeus
+Info:      "Legendary Staff that once belonged to a grand magician"
+Price:     N/A
+Sell:      5000 Gil
+Attack:    35
+Add ST:    Mini
+Abilities: Doomsday
+Used by:   Vivi
+Location:  Check the top left corner of the room in Memoria called (Disc 4)
+           Stairs
+
+
+-------------------------------------------------------------------------------
+F.                       SWORDS and KNIGHT SWORDS [S+K]
+-------------------------------------------------------------------------------
+Name:      Broadsword
+Info:      "Ordinary sword used in combat"
+Price:     330 Gil
+Sell:      165 Gil
+Attack:    12
+Abilities: Beast Killer
+Used by:   Steiner
+Location:  Initially equipped to Steiner (Disc 1)
+        :  Steal from Prison Cage        (Disc 1)
+        :  Buy from Dali                 (Disc 1/2/3/4)
+        :  Found in Ipsen's Castle       (Disc 3/4)
+
+Name:      Iron Sword
+Info:      "Sword made of iron"
+Price:     660 Gil
+Sell:      330 Gil
+Attack:    16
+Abilities: Minus Strike
+Used by:   Steiner
+Location:  Steal from Baku                             (Disc 1)
+        :  Initially equipped to Blank                 (Disc 1)
+        :  Buy from Dali                               (Disc 1/2/3/4)
+        :  Buy from Lindblum                           (Disc 1)
+        :  Initially equipped to Marcus                (Disc 2)
+        :  Buy from Kumool's Mogshop in Ipsen's Castle (Disc 3/4)
+
+Name:      Mythril Sword
+Info:      "Sword made of mythril"
+Price:     1300 Gil
+Sell:      650 Gil
+Attack:    20
+Abilities: Armour Break
+Used by:   Steiner
+Location:  Steal from Beatrix                          (Disc 1)
+        :  Buy from Treno                              (Disc 2)
+        :  Buy from Esto Gaza before the Desert Palace (Disc 3)
+
+Name:      Blood Sword
+Info:      "Sword varnished with blood"
+Price:     N/A
+Sell:      950 Gil
+Attack:    24
+Effect:    Restores HP equivalent to damage done to enemy
+Abilities: Darkside
+Used by:   Steiner
+Location:  Give Queen Stella at Treno 4 Stellazzio's (Disc 2/3/4)
+        :  Steal from Tiamat                         (Disc 4)
+
+Name:      Ice Brand
+Info:      "Weapon with a ice spirit dwelling inside"
+Price:     3780 Gil
+Sell:      1890 Gil
+Attack:    35
+Element:   Ice
+Add ST:    Freeze
+Abilities: Mental Break
+Used by:   Steiner
+Location:  Steal from Beatrix                     (Disc 2)
+        :  Steal from Beatrix                     (Disc 2)
+        :  Found in Alexandria's Castle           (Disc 2)
+        :  Buy from Lindblum                      (Disc 2)
+        :  Buy from Merchant at Dragon's Gate     (Disc 2)
+        :  Buy from Treasure Hunter in Fossil Roo (Disc 2)
+        :  Buy from Alexandria                    (Disc 3/4)
+        :  Buy from Treno                         (Disc 3/4)
+
+Name:      Coral Sword
+Info:      "Sword made of coral"
+Price:     4000 Gil
+Sell:      2000 Gil
+Attack:    38
+Element:   Thunder
+Abilities: Charge!
+Used by:   Steiner
+
+Location:  Steal from Lani   (Disc 2)
+        :  Buy from Treno    (Disc 3/4)
+        :  Buy from Lindblum (Disc 3/4)
+
+Name:      Diamond Sword
+Info:      "Sword made of diamond"
+Price:     4700 Gil
+Sell:      2350 Gil
+Attack:    42
+Abilities: Power Break
+Used by:   Steiner
+Location:  Buy from Mimoza's Mogshop in Oeilvert          (Disc 3)
+        :  Found in Oeilvert                              (Disc 3)
+        :  Buy from Mojito's Mogshop in the Desert Palace (Disc 3)
+        :  Buy from Esto Gaza after the Desert Palace     (Disc 3)
+
+Name:      Flame Sabre
+Info:      "Weapon with a fire spirit dwelling inside"
+Price:     5190 Gil
+Sell:      2595 Gil
+Attack:    46
+Element:   Fire
+Add ST:    Heat
+Abilities: Magic Break
+Used by:   Steiner
+Location:  Buy from Esto Gaza after the Desert Palace (Disc 3)
+
+Name:      Rune Blade
+Info:      "Weapon that has rune inscriptions"
+Price:     8900 Gil
+Sell:      4450 Gil
+Attack:    57
+Add ST:    Darkness
+Abilities: Iai Strike
+Used by:   Steiner
+Location:  Buy from Daguerreo (Disc 3)
+
+Name:      Defender
+Info:      "Sword possessing a guardian angel"
+Price:     9340 Gil
+Sell:      4670 Gil
+Attack:    65
+Spirit:    +3
+Element:   Half's Ice/Thunder
+Abilities: Thunder Slash
+Used by:   Steiner
+Location:  Buy from Moorock's Mogshop in Bran Bal (Disc 3)
+        :  Buy from Daguerreo                     (Disc 4)
+
+Name:      Save the Queen
+Info:      "Long sword used by holy knights"
+Price:     50000 Gil
+Sell:      25000 Gil
+Attack:    23-122 (Attack command only, is always 23 when using Skills)
+Speed:     +1
+Strength:  +2
+Magic:     +2
+Spirit:    +5
+Element:   Half's Fire
+Abilities: N/A
+Used by:   Beatrix
+Location:  Initially equipped to Beatrix            (Disc 2/3)
+        :  Synth at Hades Synthesis Shop in Memoria (Disc 4)
+
+Name:      Ultima Sword
+Info:      "Sword that can only be used by chosen knights"
+Price:     14000 Gil
+Sell       7000 Gil
+Attack:    74
+Add ST:    Sleep
+Abilities: Stock Break
+Used by:   Steiner
+Location:  Buy from Daguerreo (Disc 4)
+        :  Steal from Maliris (Disc 4)
+
+Name:      Excalibur
+Info:      "Light sword used by holy knights"
+Price:     N/A
+Sell:      9500 Gil
+Attack:    77
+Element:   Holy
+Abilities: Climhazzard
+Used by:   Steiner
+Location:  Buy the following 4 Key Items from the Treno Auction:
+           Doga's Artifact
+           Une's Mirror
+           Griffin's Heart
+           Rat Tail
+
+           After that sell them to the following people of Treno:
+           Doga's Artifact to the Scholar in the Synthesis shop
+           Une's Mirror to the Nobleman outside the Cafe Carta
+           Griffin's Heart to the Adventurer outside the Cafe Carta
+           Rat Tail to the Adventurer outside the Cafe Carta
+
+           Now the Magical Fingertip will appear in the Auction but
+           only on disc 4. Buy that, then give to the Old Man outside
+           the Inn of Daguerreo and he will give you the Excalibur
+
+Name:      Ragnarok
+Info:      "Knight sword bearing divine inscriptions"
+Price:     N/A
+Sell:      14500 Gil
+Attack:    87
+Add ST:    Slow
+Abilities: Thunder Slash and Shock
+Used by:   Steiner
+Location:  Found in the Chocograph 21, Outer Island (Disc 3/4)
+
+Name:      Excalibur II
+Info:      "The ultimate sword, used by a legendary king. It was forged in
+           another world"
+Price:     N/A
+Sell:      19500 Gil
+Attack:    108
+Element:   Holy
+Abilities: Minus Strike, Climhazzard and Stock Break
+Used by:   Steiner
+Location:  Search the right pillar in the room of Memoria called Gate (Disc 4)
+           to Space in under 12 hours since the start of the game.
+
+
+-------------------------------------------------------------------------------
+G.                              SPEARS [Spr]
+-------------------------------------------------------------------------------
+Name:      Javelin
+Info:      "Spear used by dragon knights"
+Price:     880 Gil
+Sell:      440 Gil
+Attack:    18
+Abilities: Dragon Killer
+Used by:   Freya
+Location:  Initially equipped to Freya (Disc 1)
+        :  Buy from Lindblum           (Disc 1)
+        :  Found in Ipsen's Castle     (Disc 3/4)
+
+Name:      Mythril Spear
+Info:      "Spear made of mythril"
+Price:     1100 Gil
+Sell:      550 Gil
+Attack:    20
+Abilities: Reis's Wind
+Used by:   Freya
+Location:  Found in Burmecia                           (Disc 1)
+        :  Buy from Treno                              (Disc 2)
+        :  Buy from Esto Gaza before the Desert Palace (Disc 3)
+        :  Buy from Kumool's Mogshop in Ipsen's Castle (Disc 3/4)
+
+Name:      Partisan
+Info:      "Spear adorned with brilliant gems. Originally made as
+           a decoration"
+Price:     1600 Gil
+Sell:      800 Gil
+Attack:    25
+Abilities: High Tide and Lancer
+Used by:   Freya
+Location:  Buy from Burmecian Dan's Weapon Shop in Cleyra (Disc 2)
+        :  Steal from Zorn                                (Disc 2)
+        :  Buy from Lindblum                              (Disc 2/3/4)
+        :  Buy from the Merchant at Dragon's Gate         (Disc 2)
+        :  Buy from the Treasure Hunter in Fossil Roo     (Disc 2)
+        :  Buy from Alexandria                            (Disc 3/4)
+        :  Buy from Treno                                 (Disc 3/4)
+
+Name:      Ice Lance
+Info:      "Spear made of ice"
+Price:     2430 Gil
+Sell:      1215 Gil
+Attack:    31
+Element:   Ice
+Add ST:    Freeze
+Abilities: White Draw
+Used by:   Freya
+Location:  Buy from Alexandria (Disc 3/4)
+        :  Buy from Treno      (Disc 3/4)
+        :  Buy from Lindblum   (Disc 3/4)
+
+Name:      Trident
+Info:      "Also known as the spear of enchantment"
+Price:     3580 Gil
+Sell:      1790 Gil
+Attack:    37
+Add ST:    Darkness
+Abilities: Luna
+Used by:   Freya
+Location:  Buy from Mimoza's Mogshop in Oeilvert          (Disc 3)
+        :  Buy from Mojito's Mogshop in the Desert Palace (Disc 3)
+
+Name:      Heavy Lance
+Info:      "Heavy weapon that can deal massive damage"
+Price:     4700 Gil
+Sell:      2350 Gil
+Attack:    42
+Add ST:    Stop
+Abilities: Six Dragon's
+Used by:   Freya
+Location:  Buy from Esto Gaza after the Desert Palace (Disc 3)
+
+Name:      Obelisk
+Info:      "Spear made from a magic stone"
+Price:     6000 Gil
+Sell:      3000 Gil
+Attack:    52
+Add ST:    Petrify
+Abilities: Cherry Blossom and Initiative
+Used by:   Freya
+Location:  Buy from Daguerreo (Disc 3)
+
+Name:      Holy Lance
+Info:      "Holy spear"
+Price:     11000 Gil
+Sell:      5500 Gil
+Attack:    62
+Element:   Holy
+Abilities: Dragon's Crest and Reis's Wind
+Used by:   Freya
+Location:  Steal from Ark                         (Disc 3)
+        :  Buy from Moorock's Mogshop in Bran Bal (Disc 3)
+        :  Buy from Daguerreo                     (Disc 4)
+
+Name:      Kain's Lance
+Info:      "Spear from the distant past"
+Price:     N/A
+Sell:      7500 Gil
+Attack:    71
+Add ST:    Confuse
+Abilities: Cherry Blossom, Dragon's Crest and White Draw
+Used by:   Freya
+Location:  Found hidden in the right wall of the room in (Disc 4)
+           Memoria called Entrance
+
+Name:      Dragon's Hair
+Info:      "Legendary spear made from a dragon king's hair. It is known
+           as 'The divider of heaven'"
+Price:     N/A
+Sell:      11750 Gil
+Attack:    77
+Abilities: Dragon's Breath
+Used by:   Freya
+Location:  Found in the Mountain Crack north west of Oeilvert (Disc 3/4)
+
+
+-------------------------------------------------------------------------------
+H.                              CLAWS [Clw]
+-------------------------------------------------------------------------------
+Name:      Cat's Claws
+Info:      "Ordinary claws used for combat"
+Price:     4000 Gil
+Sell:      2000 Gil
+Attack:    23
+Abilities: Counter and Charka
+Used by:   Amarant
+Location:  Initially equipped to Amarant (Disc 2)
+        :  Buy from Alexandria           (Disc 3/4)
+        :  Buy from Treno                (Disc 3/4)
+        :  Found in Ipsen's Castle       (Disc 3/4)
+
+Name:      Poison Knuckles
+Info:      "Combat knuckles"
+Price:     5000 Gil
+Sell:      2500 Gil
+Attack:    33
+Add ST:    Poison
+Abilities: Counter and Spare Change
+Used by:   Amarant
+Location:  Buy from Conde Petie                        (Disc 2/3)
+        :  Buy from Madain Sari                        (Disc 2/3/4)
+        :  Steal from Scarlet Hair                     (Disc 2)
+        :  Buy from Alexandria                         (Disc 3/4)
+        :  Buy from Treno                              (Disc 3/4)
+        :  Buy from Lindblum                           (Disc 3/4)
+        :  Buy from Kumool's Mogshop in Ipsen's Castle (Disc 3/4)
+
+Name:      Mythril Claws
+Info:      "Claws made of mythril"
+Price:     6500 Gil
+Sell:      3250 Gil
+Attack:    39
+Abilities: Counter and Curse
+Used by:   Amarant
+Location:  Buy from Esto Gaza before the Desert Palace    (Disc 3)
+        :  Buy from Mimoza's Mogshop in Oeilvert          (Disc 3)
+        :  Buy from Mojito's Mogshop in the Desert Palace (Disc 3)
+        :  Steal from Taharka                             (Disc 3)
+
+Name:      Scissor Fangs
+Info:      "Weapon with deadly venom on tip"
+Price:     8000 Gil
+Sell:      4000 Gil
+Attack:    45
+Add ST:    Venom
+Abilities: Counter and Aura
+Used by:   Amarant
+Location:  Buy from Esto Gaza after the Desert Palace (Disc 3)
+
+Name:      Dragon's Claws
+Info:      "Weapon made from a dragon's claw"
+Price:     N/A
+Sell:      5180 Gil
+Attack:    53
+Element:   Water
+Abilities: Counter and No Mercy
+Used by:   Amarant
+Location:  Found in the Chocograph 7, Forgotten Lagoon (Disc 3/4)
+
+Name:      Tiger Fangs
+Info:      "Long, sharp claws"
+Price:     13500 Gil
+Sell:      6750 Gil
+Attack:    62
+Abilities: Counter and Revive
+Used by:   Amarant
+Location:  Buy from Daguerreo (Disc 3)
+
+Name:      Avenger
+Info:      "Powerful claws that can kill opponents with one hit"
+Price:     16000 Gil
+Sell:      8000 Gil
+Attack:    70
+Add ST:    Death
+Abilities: Counter and Demi Shock
+Used by:   Amarant
+Location:  Steal from Earth Guardian              (Disc 3)
+        :  Buy from Moorock's Mogshop in Bran Bal (Disc 3)
+        :  Buy from Daguerreo                     (Disc 4)
+
+Name:      Kaiser Knuckles
+Info:      Claws with a wind spirit dwelling inside"
+Price:     18000 Gil
+Sell:      9000 Gil
+Attack:    75
+Add ST:    Trouble
+Element:   Wind
+Abilities: Counter, Countdown and Curse
+Used by:   Amarant
+Location:  Found in the Chocograph 15, Dusk Plains (Disc 3/4)
+        :  Steal from Silver Dragon                (Disc 3)
+        :  Buy from Daguerreo                      (Disc 4)
+
+Name:      Duel Claws
+Info:      "Weapon once used by a legendary hero"
+Price:     16000 Gil
+Sell:      10750 Gil
+Attack:    79
+Add ST:    Berserk
+Abilities: Counter, Aura and No Mercy
+Used by:   Amarant
+Location:  Synth at the Black Mage Village (Disc 4)
+        :  Steal from Deathguise           (Disc 4)
+
+Name:      Rune Claws
+Info:      "Legendary combat claws that use the power of darkness to unleash
+           a destructive force beyond imagination"
+Price:     N/A
+Sell:      14400 Gil
+Attack:    83
+Add ST:    Darkness
+Abilities: Demi Shock, Spare Change and Revive
+Used by:   Amarant
+Location:  Found in between the pillars on the left side of the room (Disc 4)
+           in Memoria called Time Interval
+
+
+-------------------------------------------------------------------------------
+I.                         THROWING WEAPONS [Thw]
+-------------------------------------------------------------------------------
+Name:     Pinwheel
+Info:     "Throwing weapon used with the command 'Throw'. It cannot be
+          equipped"
+Price:    200 Gil
+Sell:     100 Gil
+Attack:   25
+Used by:  Amarant
+Location: Can be dug up playing H&C                      (Disc 1/2/3/4)
+        : Buy from Madain Sari                           (Disc 2/3/4)
+        : Buy from Alexandria                            (Disc 3/4)
+        : Buy from Lindblum                              (Disc 3/4)
+        : Buy from Mimoza's Mogshop in Oeilvert          (Disc 3)
+        : Buy from Mojito's Mogshop in the Desert Palace (Disc 3)
+
+Name:     Rising Sun
+Info:     "Throwing weapon, more powerful than the pinwheel. It is used with
+          the command 'Throw' and cannot be equipped"
+Price:    500 Gil
+Sell:     250 Gil
+Attack:   36
+Used by:  Amarant
+Location: Can be dug up playing H&C                      (Disc 1/2/3/4)
+        : Steal from Grand Dragon                        (Disc 1/2/3/4)
+        : Found in the Chocograph 11, Small Beach        (Disc 1/2/3/4)
+        : Found in Oeilvert                              (Disc 3)
+        : Buy from Mojito's Mogshop in the Desert Palace (Disc 3)
+        : Buy from Esto Gaza after the Desert Palace     (Disc 3)
+        : Buy from Daguerreo                             (Disc 3/4)
+        : Buy from Kumool's Mogshop in Ipsen's Castle    (Disc 3/4)
+        : Buy from Moorock's Mogshop in Bran Bal         (Disc 3)
+
+Name:     Wing Edge
+Info:     "Throwing weapon, more powerful than the rising sun. It is used
+          with the command 'Throw' and cannot be equipped"
+Price:    N/A
+Sell:     1500 Gil
+Attack:   64
+Used by:  Amarant
+Location: Can be dug up playing H&C                    (Disc 1/2/3/4)
+        : Exchange for 3500 H&C points                 (Disc 1/2/3/4)
+        : Found in the Chocograph 3, Uncultivated Land (Disc 3/4)
+        : Found in the Chocograph 13, Forbidden Forest (Disc 3/4)
+        : Found in Esto Gaza                           (Disc 3)
+        : Found in Mount Gulug                         (Disc 3)
+        : Found in Bran Bal                            (Disc 3)
+        : Steal from Kraken Right Tentacle             (Disc 4)
+        : Steal from Crystal Tiamat                    (Disc 4)
+
+
+-------------------------------------------------------------------------------
+J.                               FORKS [Frk]
+-------------------------------------------------------------------------------
+Name:      Fork
+Info:      "Combat fork used by the Qu clan"
+Price:     1100 Gil
+Sell:      550 Gil
+Attack:    21
+Abilities: High Tide
+Used by:   Quina
+Location:  Buy from Lindblum           (Disc 1)
+        :  Initially equipped to Quina (Disc 1)
+        :  Buy from Treno              (Disc 2)
+        :  Found in Ipsen's Castle     (Disc 3/4)
+        :  Buy from Daguerreo          (Disc 4)
+
+Name:      Needle Fork
+Info:      "Mysterious fork that causes the opposite effect of soft"
+Price:     3100 Gil
+Sell:      1550 Gil
+Attack:    34
+Add ST:    Petrify
+Abilities: High Tide
+Used by:   Quina
+Location:  Steal from Zaghnol                             (Disc 1)
+        :  Buy from Atla's Mogshop in Burmecia            (Disc 1/2/3/4)
+        :  Buy from Treno                                 (Disc 2)
+        :  Found in the Cleyra Tree Trunk                 (Disc 2)
+        :  Buy from Burmecian Dan's Weapon Shop in Cleyra (Disc 2)
+        :  Buy from Kumool's Mogshop in Ipsen's Castle    (Disc 3/4)
+
+Name:      Mythril Fork
+Info:      "Fork made of mythril "
+Price:     4700 Gil
+Sell:      2350 Gil
+Attack:    42
+Abilities: High Tide
+Used by:   Quina
+Location:  Steal from Ralvurahva                       (Disc 2)
+        :  Buy from Conde Petie                        (Disc 2/3)
+        :  Buy from the Black Mage Village             (Disc 2/3)
+        :  Steal from Hilgigars                        (Disc 2)
+        :  Buy from Lindblum                           (Disc 3/4)
+        :  Buy from Esto Gaza before the Desert Palace (Disc 3)
+
+Name:      Silver Fork
+Info:      "Fork made of silver"
+Price:     7400 Gil
+Sell:      3700 Gil
+Attack:    53
+Add ST:    Slow
+Abilities: High Tide
+Used by:   Quina
+Location:  Got for catching 23 Frogs at a Qu's Marsh      (Disc 1/2/3/4)
+        :  Steal from Tantarian                           (Disc 2/3)
+        :  Buy from Mimoza's Mogshop in Oeilvert          (Disc 3)
+        :  Buy from Mojito's Mogshop in the Desert Palace (Disc 3)
+        :  Buy from Esto Gaza after the Desert Palace     (Disc 3)
+
+Name:      Bistro Fork
+Info:      "Popular fork among gourmands"
+Price:     10300 Gil
+Sell:      5150 Gil
+Attack:    68
+Add ST:    Sleep
+Abilities: High Tide
+Used by:   Quina
+Location:  Got for catching 33 Frogs at a Qu's Marsh (Disc 1/2/3/4)
+        :  Buy from Moorock's Mogshop in Bran Bal    (Disc 3)
+        :  Buy from Daguerreo                        (Disc 4)
+
+Name:      Gastro Fork
+Info:      "Legendary fork known for it's ability to crush anything"
+Price:     N/A
+Sell:      6650 Gil
+Attack:    77
+Add ST:    Stop
+Abilities: High Tide
+Used by:   Quina
+Location:  Got for catching 99 Frogs at a Qu's Marsh and (Disc 1/2/3/4)
+           then defeating Quale in a battle
+
+
+-------------------------------------------------------------------------------
+K.                              RODS [Rod]
+-------------------------------------------------------------------------------
+Name:      Rod
+Info:      "Combat Rod"
+Price:     260 Gil
+Sell:      130 Gil
+Attack:    11
+Abilities: Cure, Panacea and Protect
+Used by:   Garnet
+Location:  Initially equipped to Garnet (Disc 1)
+        :  Buy from Dali                (Disc 1/2/3/4)
+        :  Buy from Lindblum            (Disc 1)
+        :  Found in Ipsen's Castle      (Disc 3/4)
+
+Name:      Mythril Rod
+Info:      "Rod made of mythril"
+Price:     560 Gil
+Sell:      280 Gil
+Attack:    14
+Abilities: Life, Shell and Silence
+Used by:   Garnet
+Location:  Buy from Summit Station                        (Disc 2)
+        :  Buy from Treno                                 (Disc 2)
+        :  Buy from Burmecian Dan's Weapon Shop in Cleyra (Disc 2)
+        :  Buy from Esto Gaza before the Desert Palace    (Disc 3)
+        :  Buy from Kumool's Mogshop in Ipsen's Castle    (Disc 3/4)
+
+Name:      Stardust Rod
+Info:      "Rod adored with beautiful stars"
+Price:     760 Gil
+Sell:      380 Gil
+Attack:    16
+Spirit:    +2
+Element:   Half's Shadow
+Abilities: Ability Up, Float and Reflect
+Used by:   Garnet
+Location:  Steal from Zorn                            (Disc 2)
+        :  Buy from Lindblum                          (Disc 2)
+        :  Buy from Merchant at Dragon's Gate         (Disc 2)
+        :  Buy from Treasure Hunter in Fossil Roo     (Disc 2)
+        :  Buy from Conde Petie                       (Disc 2/3)
+        :  Buy from the Black Mage Village            (Disc 2/3)
+        :  Buy from Alexandria                        (Disc 3/4)
+        :  Buy from Treno                             (Disc 3/4)
+
+Name:      Healing Rod
+Info:      "Weapon that can restore the targets HP"
+Price:     1170 Gil
+Sell:      885 Gil
+Attack:    23
+Effect:    Restores the targets HP
+Abilities: Cura, Healer and Life
+Used by:   Garnet
+Location:  Found in the Iifa Tree                         (Disc 2/3)
+        :  Buy from Alexandria                            (Disc 3/4)
+        :  Buy from Treno                                 (Disc 3/4)
+        :  Buy from Lindblum                              (Disc 3/4)
+        :  Buy from Mimoza's Mogshop in Oeilvert          (Disc 3)
+        :  Buy from Mojito's Mogshop in the Desert Palace (Disc 3)
+
+Name:      Asura's Rod
+Info:      "Holy Rod"
+Price:     3180 Gil
+Sell:      1590 Gil
+Attack:    27
+Element:   Holy
+Abilities: Confuse, Mini and Silence
+Used by:   Garnet
+Location:  Buy from Esto Gaza after the Desert Palace (Disc 3)
+        :  Buy from Daguerreo                         (Disc 3)
+
+Name:      Wizard Rod
+Info:      "Rod used by mages"
+Price:     3990 Gil
+Sell:      1995 Gil
+Attack:    31
+Abilities: Curaga, Protect and Shell
+Used by:   Garnet
+Location:  Buy from the Black Mage Village (Disc 4)
+        :  Steal from Kraken               (Disc 4)
+
+Name:      Whale Whisker
+Info:      "Legendary weapon that holds powerful magic"
+Price:     N/A
+Sell:      5140 Gil
+Attack:    36
+Abilities: Curaga and Life
+Used by:   Garnet
+Location:  Found in the Chocograph 18, Ocean (Disc 3/4)
+
+
+-------------------------------------------------------------------------------
+L.                              FLUTES [Flt]
+-------------------------------------------------------------------------------
+Name:      Golem's Flute
+Info:      "Flute with a golem's power dwelling inside"
+Price:     2700 Gil
+Sell:      1350 Gil
+Attack:    17
+Abilities: Auto-Regen, Cura and Life
+Used by:   Eiko
+Location:  Initially equipped to Eiko (Disc 2)
+        :  Buy from Madain Sari       (Disc 2/3/4)
+        :  Found in Ipsen's Castle    (Disc 3/4)
+
+Name:      Lamia's Flute
+Info:      "Flute with a lamia's power dwelling inside"
+Price:     3800 Gil
+Sell:      1900 Gil
+Attack:    21
+Abilities: Float, Silence and Stona
+Used by:   Eiko
+Location:  Found in the Iifa Tree                      (Disc 2/3)
+        :  Buy from Alexandria                         (Disc 3/4)
+        :  Buy from Treno                              (Disc 3/4)
+        :  Buy from Lindblum                           (Disc 3/4)
+        :  Buy from Kumool's Mogshop in Ipsen's Castle (Disc 3/4)
+
+Name:      Fairy Flute
+Info:      "Flute with an angel's spirit dwelling inside"
+Price:     4500 Gil
+Sell:      2250 Gil
+Attack:    24
+Abilities: Esuna, Haste and Regen
+Used by:   Eiko
+Location:  Steal from Hilgigars                           (Disc 2)
+        :  Buy from Mimoza's Mogshop in Oeilvert          (Disc 3)
+        :  Buy from Mojito's Mogshop in the Desert Palace (Disc 3)
+
+Name:      Hamelin
+Info:      "Flute that holds magic powers"
+Price:     5700 Gil
+Sell:      2850 Gil
+Attack:    27
+Abilities: Curaga, Jewel and Might
+Used by:   Eiko
+Location:  Buy from Esto Gaza after the Desert Palace (Disc 3)
+        :  Buy from Daguerreo                         (Disc 3)
+
+Name:      Siren's Flute
+Info:      "Flute with a siren's power dwelling inside"
+Price:     7000 Gil
+Sell:      3500 Gil
+Attack:    30
+Abilities: Dispel, Esuna and Full-Life
+Used by:   Eiko
+Location:  Buy from the Black Mage Village (Disc 4)
+        :  Steal from Lich                 (Disc 4)
+
+Name:      Angel's Flute
+Info:      "Legendary flute that is said to enchant anyone who hear
+           it's tune"
+Price:     N/A
+Sell:      4150 Gil
+Attack:    33
+Abilities: Curaga, Esuna and Holy
+Used by:   Eiko
+Location:  In the room of Memoria called The Past, climb the little  (Disc 4)
+           stairs in the middle of this room and check the left side
+
+
+-------------------------------------------------------------------------------
+M.                             RACKETS [Rck]
+-------------------------------------------------------------------------------
+Name:      Air Racket
+Info:      "Long-range combat racket"
+Price:     400 Gil
+Sell:      200 Gil
+Attack:    13
+Element:   Wind
+Abilities: Panacea and Scan
+Used by:   Garnet and Eiko
+Location:  Buy from Summit Station (Disc 2)
+        :  Buy from Treno          (Disc 2)
+        :  Found in Ipsen's Castle (Disc 3/4)
+
+Name:      Multina Racket
+Info:      "Long-range weapon that holds mysterious powers"
+Price:     750 Gil
+Sell:      375 Gil
+Attack:    17
+Element:   Wind
+Abilities: Blind, Shell and Stona
+Used by:   Garnet and Eiko
+Location:  Found in South Gate                            (Disc 1/3)
+        :  Buy from Burmecian Dan's Weapon Shop in Cleyra (Disc 2)
+        :  Buy from Lindblum                              (Disc 2)
+        :  Buy from the Merchant at Dragon's Gate         (Disc 2)
+        :  Buy from the Treasure Hunter in Fossil Roo     (Disc 2)
+        :  Buy from Conde Petie                           (Disc 2/3)
+        :  Buy from Madain Sari                           (Disc 2/3/4)
+        :  Buy from Treno                                 (Disc 3/4)
+        :  Buy from Kumool's Mogshop in Ipsen's Castle    (Disc 3/4)
+
+Name:      Magic Racket
+Info:      "Long-range weapon that holds magic powers"
+Price:     1350 Gil
+Sell:      675 Gil
+Attack:    23
+Magic:     +2
+Element:   Wind, enhances Holy
+Abilities: Berserk, Cure and Mini
+Used by:   Garnet and Eiko
+Location:  Buy from Lindblum                              (Disc 3/4)
+        :  Buy from Mimoza's Mogshop in Oeilvert          (Disc 3)
+        :  Buy from Mojito's Mogshop in the Desert Palace (Disc 3)
+        :  Buy from Esto Gaza after the Desert Palace     (Disc 3)
+
+Name:      Mythril Racket
+Info:      "Long-range weapon made of mythril"
+Price:     2250 Gil
+Sell:      1125 Gil
+Attack:    27
+Element:   Wind
+Abilities: Protect, Reflect and Shell
+Used by:   Garnet and Eiko
+Location:  Buy from Esto Gaza before the Desert Palace (Disc 3)
+        :  Buy from Daguerreo                          (Disc 3/4)
+        :  Found in Terra                              (Disc 3)
+        :  Buy from Moorock's Mogshop in Bran Bal      (Disc 3)
+
+Name:      Priest's Racket
+Info:      "Long-range holy racket"
+Price:     11000 Gil
+Sell:      4000 Gil
+Attack:    35
+Element:   Wind
+Abilities: Might and Silence
+Used by:   Garnet and Eiko
+Location:  Synth at the Black Mage Village (Disc 4)
+
+Name:      Tiger Racket
+Info:      "The most powerful long-range racket"
+Price:     N/A
+Sell:      2900 Gil
+Attack:    45
+Element:   Wind
+Abilities: Dispel
+Used by:   Garnet and Eiko
+Location:  Found in the Dive Spot below Quan's Dwelling (Disc 3/4)
+
+
+-------------------------------------------------------------------------------
+N.                              HATS [Hat]
+-------------------------------------------------------------------------------
+Name:      Adaman Hat
+Info:      "Extremely durable hat"
+Price:     6100 Gil
+Sell:      3050 Gil
+Defence:   +3
+Mag Def:   +33
+Element:   Neutralises Thunder
+Abilities: Gamble Defence and HP+20%
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Buy from Moorock's Mogshop in Bran Bal (Disc 3)
+        :  Buy from Daguerreo                     (Disc 4)
+
+Name:      Bandana
+Info:      "Mysterious bandana that makes you light-footed"
+Price:     500 Gil
+Sell:      200 Gil
+Speed:     +1
+Spirit:    +1
+Evade:     +2
+Mag Def:   +12
+Abilities: Insomniac and Man Eater
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Buy from Treno                                 (Disc 2)
+        :  Buy from Burmecian Dan's Weapon Shop in Cleyra (Disc 2)
+        :  Buy from Lindblum                              (Disc 2)
+        :  Found at Dragon's Gate                         (Disc 2)
+        :  Buy from Merchant at Dragon's Gate             (Disc 2)
+        :  Buy from Treasure Hunter in Fossil Roo         (Disc 2)
+        :  Buy from the Black Mage Village                (Disc 2/3)
+
+Name:      Black Hood
+Info:      "Hood from a foreign land"
+Price:     2550 Gil
+Sell:      1275 Gil
+Mag Def:   +27
+Element:   Half's Fire/Thunder/Water
+Abilities: Accuracy+, Death and Locomotion
+Used by:   Zidane, Vivi, Garnet, Quina and Eiko
+Location:  Found in the Desert Palace                 (Disc 3)
+        :  Buy from Esto Gaza after the Desert Palace (Disc 3)
+
+Name:      Circlet
+Info:      "Circlet protected by magic"
+Price:     20000 Gil
+Sell:      6500 Gil
+Mag Def:   +51
+Element:   Neutralises Earth
+Abilities: Clear Headed and Jelly
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Found in the Chocograph 22, Outer Island 2 (Disc 3/4)
+        :  Defeat Behemoth at Treno's Weapon Shop     (Disc 4)
+        :  Synth at the Black Mage Village            (Disc 4)
+
+Name:      Coronet
+Info:      "Coronet that radiates a mysterious light"
+Price:     4400 Gil
+Sell:      2200 Gil
+Defence:   +1
+Mag Def:   +35
+Element:   Neutralises Wind
+Abilities: Man Eater and Return Magic
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Buy from Daguerreo                     (Disc 3/4)
+        :  Buy from Moorock's Mogshop in Bran Bal (Disc 3)
+        :  Found in Terra                         (Disc 3)
+
+Name:      Dark Hat
+Info:      "Old hat, steeped in legend"
+Price:     1800 Gil
+Sell:      900 Gil
+Mag Def:   +21
+Element:   Neutralises Ice
+Abilities: High Tide and Jelly
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Buy from Lindblum                              (Disc 3/4)
+        :  Buy from Mimoza's Mogshop in Oeilvert          (Disc 3)
+        :  Buy from Mojito's Mogshop in the Desert Palace (Disc 3)
+
+Name:      Feather Hat
+Info:      "Hat that raises spirit"
+Price:     200 Gil
+Sell:      100 Gil
+Spirit:    +1
+Mag Def:   +7
+Element:   Enhances Wind
+Abilities: Add Status and Bright Eyes
+Used by:   Zidane, Vivi, Garnet, Quina and Eiko
+Location:  Buy from Dali                   (Disc 1/2/3/4)
+        :  Initially equipped to Marcus    (Disc 2)
+        :  Buy from the Black Mage Village (Disc 2/3)
+        :  Initially equipped to Eiko      (Disc 2)
+
+Name:      Flash Hat
+Info:      "Holy Hat"
+Price:     5200 Gil
+Sell:      2600 Gil
+Speed:     +1
+Evade:     +2
+Mag Def:   +37
+Element:   Enhances Thunder/Holy
+Abilities: Beast Killer and Eye 4 Eye
+Used by:   Zidane, Vivi, Garnet, Amarant and Eiko
+Location:  Buy from Moorock's Mogshop in Bran Bal (Disc 3)
+        :  Found in Terra                         (Disc 3)
+        :  Buy from Daguerreo                     (Disc 4)
+
+Name:      Golden Hairpin
+Info:      "Hairpin that holds magic powers"
+Price:     3700 Gil
+Sell:      1850 Gil
+Magic:     +1
+Mag Def:   +32
+Mag Eva:   +2
+Element:   Enhances Water
+Abilities: Auto-Regen and Loudmouth
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Found in Mount Gulug                        (Disc 3)
+        :  Steal from Meltigemini                      (Disc 3)
+        :  Buy from Daguerreo                          (Disc 3/4)
+        :  Buy from Kumool's Mogshop in Ipsen's Castle (Disc 3/4)
+
+Name:      Golden Skullcap
+Info:      "Known for providing great defence"
+Price:     15000 Gil
+Sell:      6000 Gil
+Defence:   +2
+Mag Def:   +47
+Element:   Half's Earth, enhances Water
+Abilities: Locomotion and Power Up
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Synth at the Black Mage Village (Disc 4)
+
+Name:      Green Beret
+Info:      "Improves movement"
+Price:     2180 Gil
+Sell:      1090 Gil
+Speed:     +1
+Strength:  +1
+Mag Def:   +23
+Abilities: Ability Up and Clear Headed
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Buy from Mimoza's Mogshop in Oeilvert          (Disc 3)
+        :  Buy from Mojito's Mogshop in the Desert Palace (Disc 3)
+
+Name:      Headgear
+Info:      "Wearing it will make you popular"
+Price:     330 Gil
+Sell:      165 Gil
+Defence:   +2
+Mag Def:   +6
+Element:   Half's Water
+Abilities: Undead Killer
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Buy from Lindblum                   (Disc 1/2)
+        :  Buy from Atla's Mogshop in Burmecia (Disc 1/2/3/4)
+        :  Buy from Summit Station             (Disc 2)
+        :  Buy from the Black Mage Village     (Disc 2/3)
+
+Name:      Holy Mitre
+Info:      "Holy hat"
+Price:     8300 Gil
+Sell:      4150 Gil
+Magic:     +1
+Spirit:    +2
+Mag Def:   +39
+Abilities: Body Temp and Insomniac
+Used by:   Vivi, Garnet, Quina and Eiko
+Location:  Found in the Chocograph 23, Fairy Island (Disc 3/4)
+        :  Found in Pandemonium                     (Disc 3)
+        :  Buy from the Black Mage Village          (Disc 4)
+
+Name:      Lamia's Tiara
+Info:      "Tiara worn by Lamia"
+Price:     800 Gil
+Sell:      400 Gil
+Magic:     +1
+Spirit:    +1
+Mag Def:   +17
+Element:   Half's Wind
+Abilities: Clear Headed, Confuse and Float
+Used by:   Garnet, Freya, Quina and Eiko
+Location:  Found in Fossil Roo             (Disc 2)
+        :  Buy from Conde Petie            (Disc 2/3)
+        :  Buy from the Black Mage Village (Disc 2/3)
+        :  Buy from Madain Sari            (Disc 2/3/4)
+        :  Buy from Alexandria             (Disc 3/4)
+        :  Buy from Treno                  (Disc 3/4)
+        :  Buy from Daguerreo              (Disc 4)
+
+Name:      Leather Hat
+Info:      "Not a suitable item to wear in combat"
+Price:     150 Gil
+Sell:      75 Gil
+Mag Def:   +6
+Abilities: Fire
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Initially equipped to Zidane    (Disc 1)
+        :  Initially equipped to Cinna     (Disc 1)
+        :  Initially equipped to Vivi      (Disc 1)
+        :  Steal from Steiner              (Disc 1)
+        :  Found in the Prima Vista        (Disc 1)
+        :  Initially equipped to Blank     (Disc 1)
+        :  Buy from Dali                   (Disc 1/2/3/4)
+        :  Buy from the Black Mage Village (Disc 2/3)
+
+Name:      Mage's Hat
+Info:      "Hat that holds magic powers"
+Price:     600 Gil
+Sell:      300 Gil
+Magic:     +1
+Mag Def:   +14
+Element:   Enhances Holy/Shadow
+Abilities: Fira and Loudmouth
+Used by:   Vivi, Garnet, Quina and Eiko
+Location:  Buy from Burmecian Dan's Weapon Shop in Cleyra (Disc 2)
+        :  Buy from Lindblum                              (Disc 2)
+        :  Buy from Merchant at Dragon's Gate             (Disc 2)
+        :  Buy from Treasure Hunter in Fossil Roo         (Disc 2)
+        :  Buy from the Black Mage Village                (Disc 2/3)
+        :  Buy from Daguerreo                             (Disc 4)
+
+Name:      Magus Hat
+Info:      "Hat suited for mages"
+Price:     400 Gil
+Sell:      200 Gil
+Mag Def:   +10
+Element:   Enhances Ice
+Abilities: Slow
+Used by:   Zidane, Vivi, Garnet, Quina and Eiko
+Location:  Found in Gizamaluke Grotto                     (Disc 1/2/3/4)
+        :  Steal from Gizamaluke                          (Disc 1)
+        :  Buy from Atla's Mogshop in Burmecia            (Disc 1/2/3/4)
+        :  Buy from Summit Station                        (Disc 2)
+        :  Buy from Treno                                 (Disc 2)
+        :  Buy from Burmecian Dan's Weapon Shop in Cleyra (Disc 2)
+        :  Buy from Lindblum                              (Disc 2)
+        :  Buy from the Black Mage Village                (Disc 2/3)
+
+Name:      Mantra Band
+Info:      "Draws on hidden strength"
+Price:     1500 Gil
+Sell:      750 Gil
+Magic:     +1
+Spirit:    +1
+Defence:   +1
+Mag Def:   +19
+Abilities: Antibody and HP+20%
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Buy from Lindblum                              (Disc 3/4)
+        :  Buy from Mimoza's Mogshop in Oeilvert          (Disc 3)
+        :  Buy from Mojito's Mogshop in the Desert Palace (Disc 3)
+
+Name:      Red Hat
+Info:      "Dark-red hat"
+Price:     3000 Gil
+Sell:      1500 Gil
+Defence:   +1
+Mag Def:   +26
+Element:   Enhances Fire
+Abilities: Cover and MP Attack
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Found in Mount Gulug                        (Disc 3)
+        :  Buy from Esto Gaza after the Desert Palace  (Disc 3)
+        :  Buy from Kumool's Mogshop in Ipsen's Castle (Disc 3/4)
+
+Name:      Ritual Hat
+Info:      "Hat worn for ceremonies and festivals in Conde Petie"
+Price:     1000 Gil
+Sell:      500 Gil
+Strength:  +1
+Defence:   +1
+Mag Def:   +16
+Abilities: Bright Eyes, Counter and Undead Killer
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Buy from Conde Petie            (Disc 2/3)
+        :  Buy from the Black Mage Village (Disc 2/3)
+        :  Buy from Madain Sari            (Disc 2/3/4)
+        :  Buy from Alexandria             (Disc 3/4)
+        :  Buy from Treno                  (Disc 3/4)
+
+Name:      Steepled Hat
+Info:      "Hat worn by mages"
+Price:     260 Gil
+Sell:      130 Gil
+Strength:  +1
+Mag Def:   +9
+Abilities: Protect
+Used by:   Zidane, Vivi, Garnet, Quina and Eiko
+Location:  Steal from Black Waltz #2              (Disc 1)
+        :  Steal from Black Waltz #3              (Disc 1)
+        :  Buy from Lindblum                      (Disc 1)
+        :  Found in Lindblums Industrial District (Disc 1)
+        :  Buy from Atla's Mogshop in Burmecia    (Disc 1/2/3/4)
+        :  Buy from Summit Station                (Disc 2)
+        :  Steal from Black Waltz #3              (Disc 2)
+        :  Buy from the Black Mage Village        (Disc 2/3)
+
+Name:      Straw Hat
+Info:      "Provides a southern, tropical feel"
+Price:     N/A
+Sell:      750 Gil
+Element:   Weak against all 8 elements
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Found in the Dive Spot between the Mist+Outer Continent (Disc 3/4)
+
+Name:      Thief Hat
+Info:      "Hat for thieves"
+Price:     7100 Gil
+Sell:      3550 Gil
+Speed:     +2
+Evade:     +3
+Mag Def:   +38
+Abilities: Long Reach, Lucky Seven and Mug
+Used by:   Zidane
+Location:  Buy from the Black Mage Village (Disc 4)
+
+Name:      Twist Headband
+Info:      "Headband that raises strength"
+Price:     1200 Gil
+Sell:      600 Gil
+Strength:  +1
+Mag Def:   +17
+Element:   Enhances Earth
+Abilities: Add Status and Gamble Defence
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Buy from Alexandria (Disc 3/4)
+        :  Buy from Treno      (Disc 3/4)
+        :  Buy from Lindblum   (Disc 3/4)
+        :  Buy from Daguerreo  (Disc 3)
+
+
+-------------------------------------------------------------------------------
+O.                             HELMETS [Hlm]
+-------------------------------------------------------------------------------
+Name:      Barbut
+Info:      "Headgear that raises spirit"
+Price:     600 Gil
+Sell:      300 Gil
+Spirit:    +2
+Mag Def:   +9
+Abilities: Alert and Dragon Killer
+Used by:   Steiner and Freya
+Location:  Buy from Atla's Mogshop in Burmecia (Disc 1/2/3/4)
+        :  Buy from Summit Station             (Disc 2)
+        :  Buy from Treno                      (Disc 2)
+        :  Buy from Alexandria                 (Disc 3/4)
+
+Name:      Bronze Helm
+Info:      "Helm made of bronze"
+Price:     330 Gil
+Sell:      165 Gil
+Mag Def:   +6
+Element:   Half's Water
+Abilities: Bug Killer
+Used by:   Steiner and Freya
+Location:  Initially equipped to Steiner (Disc 1)
+        :  Buy from Dali                 (Disc 1/2/3/4)
+
+Name:      Cross Helm
+Info:      "Helm that raises strength"
+Price:     2200 Gil
+Sell:      1100 Gil
+Strength:  +1
+Mag Def:   +16
+Abilities: Devil Killer and MP Attack
+Used by:   Steiner and Freya
+Location:  Initially equipped to Beatrix                  (Disc 3)
+        :  Buy from Mimoza's Mogshop in Oeilvert          (Disc 3)
+        :  Buy from Mojito's Mogshop in the Desert Palace (Disc 3)
+        :  Buy from Esto Gaza after the Desert Palace     (Disc 3)
+        :  Buy from Kumool's Mogshop in Ipsen's Castle    (Disc 3/4)
+
+Name:      Diamond Helm
+Info:      "Helm made of diamond"
+Price:     3000 Gil
+Sell:      1500 Gil
+Spirit:    +1
+Mag Def:   +20
+Abilities: Accuracy+ and Insomniac
+Used by:   Steiner and Freya
+Location:  Buy from Daguerreo                          (Disc 3)
+        :  Buy from Kumool's Mogshop in Ipsen's Castle (Disc 3/4)
+
+Name:      Genji Helm
+Info:      "Very famous brand of helmet"
+Price:     N/A
+Sell:      1 Gil
+Magic:     +2
+Defence:   +2
+Mag Def:   +29
+Abilities: HP+20%
+Used by:   Steiner and Freya
+Location:  Found in the Mountain Crack north east of Oeilvert (Disc 3/4)
+        :  Steal from Kraken                                  (Disc 4)
+
+Name:      Gold Helm
+Info:      "Helm made of gold"
+Price:     1800 Gil
+Sell:      900 Gil
+Magic:     +1
+Mag Def:   +13
+Abilities: Clear Headed, Mental Break and Reis's Wind
+Used by:   Steiner and Freya
+Location:  Steal from Antlion                    (Disc 2)
+        :  Buy from Alexandria                   (Disc 3/4)
+        :  Buy from Treno                        (Disc 3/4)
+        :  Buy from Lindblum                     (Disc 3/4)
+        :  Buy from Mimoza's Mogshop in Oeilvert (Disc 3)
+
+Name:      Grand Helm
+Info:      "The greatest helm"
+Price:     20000 Gil
+Sell:      7000 Gil
+Speed:     +1
+Mag Def:   +33
+Abilities: High Tide
+Used by:   Steiner and Freya
+Location:  Synth at the Black Mage Village (Disc 4)
+        :  Steal from Tiamat               (Disc 4)
+
+Name:      Iron Helm
+Info:      "Helm made of iron"
+Price:     450 Gil
+Sell:      225 Gil
+Spirit:    +1
+Mag Def:   +7
+Abilities: Bright Eyes and Level Up
+Used by:   Steiner and Freya
+Location:  Steal from Plant Brain                  (Disc 1)
+        :  Found in Dali Underground               (Disc 1)
+        :  Buy from Lindblum Weapon Shop           (Disc 1)
+        :  Buy from Summit Station Weapon Shop     (Disc 2)
+        :  Initially equipped to Beatrix           (Disc 2)
+
+Name:      Kaiser Helm
+Info:      "Helm that raises strength and magic"
+Price:     7120 Gil
+Sell:      3560 Gil
+Strength:  +1
+Magic:     +1
+Mag Def:   +26
+Abilities: Eye 4 Eye
+Used by:   Steiner and Freya
+Location:  Buy from Daguerreo (Disc 4)
+
+Name:      Mythril Helm
+Info:      "Helm made of mythril"
+Price:     1000 Gil
+Sell:      500 Gil
+Spirit:    +1
+Mag Def:   +11
+Element:   Enhances Holy
+Abilities: Antibody and Insomniac
+Used by:   Steiner and Freya
+Location:  Buy from Burmecian Dan's Weapon Shop in Cleyra (Disc 2)
+        :  Buy from Lindblum                              (Disc 2)
+        :  Buy from Merchant at Dragon's Gate             (Disc 2)
+        :  Buy from Treasure Hunter in Fossil Roo         (Disc 2)
+        :  Buy from Alexandria                            (Disc 3/4)
+        :  Buy from Treno                                 (Disc 3/4)
+        :  Buy from Esto Gaza after the Desert Palace     (Disc 3)
+
+Name:      Platinum Helm
+Info:      "Helm made of platinum"
+Price:     4600 Gil
+Sell:      2300 Gil
+Mag Def:   +23
+Element:   Half's Ice
+Abilities: Restore HP and Stone Killer
+Used by:   Steiner and Freya
+Location:  Buy from Moorock's Mogshop in Bran Bal (Disc 3)
+        :  Buy from Daguerreo                     (Disc 4)
+
+Name:      Rubber Helm
+Info:      "Helm worn by soldier trainees"
+Price:     250 Gil
+Sell:      125 Gil
+Mag Def:   +5
+Element:   Half's Thunder
+Abilities: Minus Strike
+Used by:   Steiner and Freya
+Location:  Found in the Prima Vista    (Disc 1)
+        :  Buy from Dali               (Disc 1/2/3/4)
+        :  Initially equipped to Freya (Disc 1)
+        :  Buy from Summit Station     (Disc 2)
+
+
+-------------------------------------------------------------------------------
+P.                             ARMLETS [Arm]
+-------------------------------------------------------------------------------
+Name:      Bone Wrist
+Info:      "Wristlet made from bones"
+Price:     330 Gil
+Sell:      165 Gil
+Strength:  +1
+Evade:     +13
+Mag Evade: +9
+Element:   Enhances Earth
+Abilities: Add Status
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Buy from Treno                                 (Disc 2)
+        :  Steal from Ralvurahva                          (Disc 2)
+        :  Buy from Burmecian Dan's Weapon Shop in Cleyra (Disc 2)
+        :  Buy from Lindblum                              (Disc 2)
+        :  Buy from the Black Mage Village                (Disc 2/3)
+        :  Buy from Alexandria                            (Disc 3/4)
+        :  Buy from Daguerreo                             (Disc 3)
+
+Name:      Bracer
+Info:      "Bracer used by gamblers"
+Price:     24000 Gil
+Sell:      4000 Gil
+Strength:  +1
+Evade:     +35
+Mag Evade: +18
+Element:   Enhances Wind
+Abilities: Add Status and Power Throw
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Synth at the Black Mage Village (Disc 4)
+
+Name:      Chimera Armlet
+Info:      "Armlet adorned with Chimera wings"
+Price:     1200 Gil
+Sell:      600 Gil
+Evade:     +22
+Mag Evade: +14
+Element:   Neutralises Holy
+Abilities: Add Status and Mug
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Obtained during the ATE City People in Treno   (Disc 3)
+        :  Buy from Lindblum                              (Disc 3/4)
+        :  Found in Serpent's Gate                        (Disc 3/4)
+        :  Buy from Mimoza's Mogshop in Oeilvert          (Disc 3)
+        :  Buy from Mojito's Mogshop in the Desert Palace (Disc 3)
+        :  Buy from Daguerreo                             (Disc 3)
+
+Name:      Dragon Wrist
+Info:      "Wristlet made from dragon bones"
+Price:     4800 Gil
+Sell:      2400 Gil
+Spirit:    +1
+Evade:     +28
+Mag Def:   +1
+Mag Evade: +12
+Element:   Half's Shadow
+Abilities: Jelly and Lancer
+Used by:   Zidane, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Found in Terra                         (Disc 3)
+        :  Buy from Moorock's Mogshop in Bran Bal (Disc 3)
+        :  Steal from Nova Dragon                 (Disc 4)
+        :  Buy from Daguerreo                     (Disc 4)
+
+Name:      Egoist's Armlet
+Info:      "Armlet made in the dark world"
+Price:     2000 Gil
+Sell:      1000 Gil
+Evade:     +20
+Mag Evade: +20
+Element:   Neutralises Shadow
+Abilities: Beast Killer and Level Up
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Found in Lindblum Castles Guest Room           (Disc 3/4)
+        :  Buy from Mimoza's Mogshop in Oeilvert          (Disc 3)
+        :  Buy from Mojito's Mogshop in the Desert Palace (Disc 3)
+        :  Buy from Esto Gaza after the Desert Palace     (Disc 3)
+        :  Buy from Daguerreo                             (Disc 3/4)
+
+Name:      Glass Armlet
+Info:      "Armlet made of glass"
+Price:     250 Gil
+Sell:      125 Gil
+Evade:     +10
+Mag Evade: +7
+Element:   Half's Water
+Abilities: Antibody and Steal Gil
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Found in Lindblum Castles Guest Room (Disc 1)
+        :  Buy from Lindblum                    (Disc 1/2)
+        :  Buy from Atla's Mogshop in Burmecia  (Disc 1/2/3/4)
+        :  Buy from Summit Station              (Disc 2)
+        :  Buy from Treno                       (Disc 2)
+        :  Steal from Ralvurahva                (Disc 2)
+        :  Buy from the Black Mage Village      (Disc 2/3)
+        :  Initially equipped to Eiko           (Disc 2)
+        :  Buy from Alexandria                  (Disc 3/4)
+
+Name:      Jade Armlet
+Info:      "Armlet made of jade"
+Price:     3400 Gil
+Sell:      1700 Gil
+Mag Def:   +2
+Mag Evade: +27
+Element:   Enhances Holy
+Abilities: Body Temp and High Tide
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Found in the Chocograph 3, Uncultivated Land (Disc 3/4)
+        :  Buy from Esto Gaza after the Desert Palace   (Disc 3)
+        :  Buy from Daguerreo                           (Disc 3)
+        :  Buy from Kumool's Mogshop in Ipsen's Castle  (Disc 3/4)
+
+Name:      Leather Wrist
+Info:      "Wristlet that raises spirit when equipped"
+Price:     200 Gil
+Sell:      100 Gil
+Spirit:    +1
+Evade:     +7
+Mag Evade: +5
+Abilities: Beast Killer and Blizzard
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Steal from Prison Cage                 (Disc 1)
+        :  Found in the Ice Cavern                (Disc 1)
+        :  Buy from Dali                          (Disc 1/2/3/4)
+        :  Found in Dali Underground              (Disc 1)
+        :  Buy from Lindblum                      (Disc 1/2)
+        :  Found in Lindblums Industrial District (Disc 1)
+        :  Buy from Treno                         (Disc 2)
+        :  Buy from the Black Mage Village        (Disc 2/3)
+        :  Initially equipped to Amarant          (Disc 2)
+
+Name:      Magic Armlet
+Info:      "Armlet packed with magic"
+Price:     1000 Gil
+Sell:      500 Gil
+Magic:     +2
+Evade:     +16
+Mag Def:   +1
+Mag Evade: +16
+Abilities: Clear Headed and Silence
+Used by:   Vivi, Garnet, Quina and Eiko
+Location:  Buy from Conde Petie            (Disc 2/3)
+        :  Buy from the Black Mage Village (Disc 2/3)
+        :  Buy from Madain Sari            (Disc 2/3/4)
+        :  Buy from Alexandria             (Disc 3/4)
+        :  Buy from Treno                  (Disc 3/4)
+        :  Buy from Daguerreo              (Disc 3/4)
+
+Name:      Mythril Armlet
+Info:      "Armlet made of mythril"
+Price:     500 Gil
+Sell:      250 Gil
+Spirit:    +1
+Evade:     +17
+Mag Evade: +11
+Abilities: Bug Killer
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Buy from Burmecian Dan's Weapon Shop in Cleyra (Disc 2)
+        :  Steal from Thorn                               (Disc 2)
+        :  Found in Pinnacle Rocks                        (Disc 2)
+        :  Buy from Lindblum                              (Disc 2)
+        :  Buy from Merchant at Dragon's Gate             (Disc 2)
+        :  Buy from Treasure Hunter in Fossil Roo         (Disc 2)
+        :  Buy from Conde Petie                           (Disc 2/3)
+        :  Buy from the Black Mage Village                (Disc 2/3)
+        :  Buy from Alexandria                            (Disc 3/4)
+        :  Buy from Esto Gaza before the Desert Palace    (Disc 3)
+
+Name:      N-Kai Armlet
+Info:      "Armlet formerly worn by a ninja"
+Price:     3000 Gil
+Sell:      1500 Gil
+Spirit:    +2
+Defence:   +2
+Evade:     +27
+Abilities: Bandit, Undead Killer and Water
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Found in the Chocograph 9, Abandoned Lagoon (Disc 3/4)
+        :  Found in the Desert Palace                  (Disc 3)
+        :  Buy from Esto Gaza after the Desert Palace  (Disc 3)
+        :  Buy from Daguerreo                          (Disc 3)
+        :  Buy from Kumool's Mogshop in Ipsen's Castle (Disc 3/4)
+
+Name:      Pearl Armlet
+Info:      "Provides a southern, tropical feel"
+Price:     N/A
+Sell:      490 Gil
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Found in the Dive Spot between the Mist+Outer Continent (Disc 3/4)
+
+Name:      Power Wrist
+Info:      "Wristlet guard that raises strength when equipped"
+Price:     5100 Gil
+Sell:      2550 Gil
+Strength:  +2
+Evade:     +30
+Mag Evade: +10
+Abilities: Accuracy+
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Buy from Daguerreo (Disc 4)
+
+Name:      Thief Gloves
+Info:      "Gloves used by thieves"
+Price:     50000 Gil
+Sell:      25000 Gil
+Speed:     +1
+Evade:     +26
+Mag Evade: +13
+Abilities: Master Thief
+Used by:   Zidane and Amarant
+Location:  Buy from the Treno Auction (Disc 3/4)
+        :  Synth at Daguerreo         (Disc 3/4)
+
+Name:      Wrist
+Info:      "Regular wrist"
+Price:     130 Gil
+Sell:      65 Gil
+Evade:     +5
+Mag Evade: +3
+Abilities: Flee-Gil
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Initially equipped to Zidane (Disc 1)
+        :  Steal from Masked Man        (Disc 1)
+        :  Found in the Prima Vista     (Disc 1)
+        :  Buy from Dali                (Disc 1/2/3/4)
+        :  Initially equipped to Marcus (Disc 2)
+
+
+-------------------------------------------------------------------------------
+Q.                             GAUNTLETS [Gnt]
+-------------------------------------------------------------------------------
+Name:      Aegis Glove
+Info:      "Gloves worn exclusively by knights"
+Price:     7000 Gil
+Sell:      1
+Defence:   +1
+Evade:     +30
+Mag Evade: +10
+Element:   Neutralises Fire
+Abilities: Charge!
+Used by:   Steiner
+Location:  Buy from Daguerreo (Disc 4)
+
+Name:      Bronze Gloves
+Info:      "Gloves made of bronze"
+Price:     480 Gil
+Sell:      240 Gil
+Spirit:    +1
+Evade:     +8
+Mag Evade: +2
+Abilities: Antibody
+Used by:   Steiner and Freya
+Location:  Found in the Prima Vista    (Disc 1)
+        :  Buy from Dali               (Disc 1/2/3/4)
+        :  Buy from Lindblum           (Disc 1)
+        :  Initially equipped to Freya (Disc 1)
+
+Name:      Defence Gloves
+Info:      "Protects you from various attacks"
+Price:     6000 Gil
+Sell:      3000 Gil
+Defence:   +1
+Evade:     +25
+Mag Def:   +1
+Mag Evade: +20
+Element:   Half's Fire/Ice/Thunder
+Abilities: HP+20%
+Used by:   Steiner and Freya
+Location:  Buy from Daguerreo                     (Disc 3/4)
+        :  Buy from Moorock's Mogshop in Bran Bal (Disc 3)
+
+Name:      Diamond Gloves
+Info:      "Gloves made of diamond"
+Price:     2000 Gil
+Sell:      1000 Gil
+Evade:     +19
+Mag Evade: +13
+Element:   Neutralises Water
+Abilities: Ability Up and Jelly
+Used by:   Steiner and Freya
+Location:  Found in the Chocograph 5, Abandoned Beach     (Disc 2/3/4)
+        :  Buy from Mimoza's Mogshop in Oeilvert          (Disc 3)
+        :  Buy from Mojito's Mogshop in the Desert Palace (Disc 3)
+        :  Buy from Esto Gaza after the Desert Palace     (Disc 3)
+
+Name:      Gauntlets
+Info:      "Gloves worn by swordsman"
+Price:     8000 Gil
+Sell:      4400 Gil
+Speed:     +1
+Evade:     +36
+Mag Evade: +7
+Element:   Half's Fire/Earth/Water/Wind
+Abilities: Cover
+Used by:   Steiner and Freya
+Location:  Found in the Mountain Crack north west of Oeilvert (Disc 3/4)
+        :  Synth at the Black Mage Village                    (Disc 4)
+
+Name:      Genji Gloves
+Info:      "Very famous brand of gloves"
+Price:     N/A
+Sell:      1 Gil
+Magic      +2
+Evade:     +27
+Mag Evade: +17
+Abilities: High Tide
+Used by:   Steiner and Freya
+Location:  Found in Dive Spot south of the Forgotten Continent (Disc 3/4)
+        :  Steal from Lich                                     (Disc 4)
+
+Name:      Mythril Gloves
+Info:      "Gloves made of mythril"
+Price:     980 Gil
+Sell:      490 Gil
+Spirit:    +1
+Evade:     +13
+Mag Evade: +7
+Abilities: Bug Killer and Man Eater
+Used by:   Steiner and Freya
+Location:  Steal from Zaghnol                             (Disc 1)
+        :  Found in Gizamaluke Grotto                     (Disc 1/2/3/4)
+        :  Buy from Atla's Mogshop in Burmecia            (Disc 1/2/3/4)
+        :  Buy from Summit Station                        (Disc 2)
+        :  Buy from Treno                                 (Disc 2)
+        :  Found in the Cleyra Tree Trunk                 (Disc 2)
+        :  Buy from Burmecian Dan's Weapon Shop in Cleyra (Disc 2)
+        :  Initially equipped to Beatrix                  (Disc 2)
+        :  Buy from Lindblum                              (Disc 2)
+        :  Buy from Alexandria                            (Disc 3/4)
+        :  Buy from Treno                                 (Disc 3/4)
+        :  Buy from Esto Gaza before the Desert Palace    (Disc 3)
+
+Name:      Silver Gloves
+Info:      "Combat Gloves"
+Price:     720 Gil
+Sell:      360 Gil
+Evade:     +10
+Mag Evade: +5
+Element:   Half's Ice
+Abilities: Undead Killer
+Used by:   Steiner and Freya
+Location:  Steal from Black Waltz 3            (Disc 1)
+        :  Found in Lindblum Synthesis Shop    (Disc 1/3/4)
+        :  Buy from Lindblum Weapon Shop       (Disc 1)
+        :  Buy from Summit Station Weapon Shop (Disc 2)
+
+Name:      Thunder Gloves
+Info:      "Gloves with a thunder god's spirit dwelling inside"
+Price:     1200 Gil
+Sell:      600 Gil
+Evade:     +16
+Mag Evade: +10
+Element:   Half's Thunder, enhances Thunder
+Abilities: Add Status and Devil Killer
+Used by:   Steiner and Freya
+Location:  Found in Cleyra                        (Disc 2)
+        :  Buy from Burmecian Dan's Weapon Shop   (Disc 2)
+        :  Steal from Beatrix                     (Disc 2)
+        :  Buy from Lindblum                      (Disc 2/3/4)
+        :  Buy from Merchant at Dragon's Gate     (Disc 2)
+        :  Buy from Treasure Hunter in Fossil Roo (Disc 2)
+        :  Buy from Alexandria                    (Disc 3/4)
+        :  Buy from Treno                         (Disc 3/4)
+        :  Initially equipped to Beatrix          (Disc 3)
+        :  Buy from Mimoza's Mogshop in Oeilvert  (Disc 3)
+
+Name:      Venetia Shield
+Info:      "Popular shield among soldiers"
+Price:     2800 Gil
+Sell:      1400 Gil
+Strength:  +1
+Magic:     +1
+Evade:     +17
+Mag Def:   +1
+Mag Evade: +26
+Abilities: Auto-Float and Counter
+Used by:   Steiner and Freya
+Location:  Found in the Desert Palace                  (Disc 3)
+        :  Buy from Esto Gaza after the Desert Palace  (Disc 3)
+        :  Buy from Daguerreo                          (Disc 3)
+        :  Buy from Kumool's Mogshop in Ipsen's Castle (Disc 3/4)
+
+
+-------------------------------------------------------------------------------
+R.                            CLOTHES [Clt]
+-------------------------------------------------------------------------------
+Name:      Adaman Vest
+Info:      "Very durable vest"
+Price:     1600 Gil
+Sell:      800 Gil
+Defence:   +14
+Mag Def:   +2
+Element:   Half's Fire
+Abilities: Bird Killer and Stone Killer
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Steal from Ralvuimago                  (Disc 2)
+        :  Buy from Merchant at Dragon's Gate     (Disc 2)
+        :  Buy from Treasure Hunter in Fossil Roo (Disc 2)
+        :  Buy from Conde Petie                   (Disc 2/3)
+        :  Buy from the Black Mage Village        (Disc 2/3)
+        :  Initially equipped to Amarant          (Disc 2)
+        :  Buy from Madain Sari                   (Disc 2/3/4)
+
+Name:      Aloha T-Shirt
+Info:      "Provides a southern, tropical feel"
+Price:     N/A
+Sell:      9500 Gil
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Found in the Dive Spot between the Mist+Outer Continent (Disc 3/4)
+        :  Give Moguta a Kupo Nut in Gizamaluke's Grotto           (Disc 4)
+
+Name:      Brave Suit
+Info:      "Extremely durable suit"
+Price:     26000 Gil
+Sell:      11250 Gil
+Spirit:    +1
+Defence:   +42
+Element:   Enhances Fire
+Abilities: Auto-Regen and Restore HP
+Used by:   Zidane and Amarant
+Location:  Synth at the Black Mage Village (Disc 4)
+
+Name:      Brigandine
+Info:      "Clothes that raise strength"
+Price:     4300 Gil
+Sell:      2150 Gil
+Strength:  +1
+Defence:   +20
+Abilities: Ability Up and Return Magic
+Used by:   Zidane and Amarant
+Location:  Found in the Iifa Tree                         (Disc 2)
+        :  Steal from Soul Cage                           (Disc 2)
+        :  Buy from Alexandria                            (Disc 3/4)
+        :  Buy from Treno                                 (Disc 3/4)
+        :  Buy from Lindblum                              (Disc 3/4)
+        :  Buy from Mimoza's Mogshop in Oeilvert          (Disc 3)
+        :  Buy from Mojito's Mogshop in the Desert Palace (Disc 3)
+
+Name:      Bronze Vest
+Info:      "Plate made of bronze"
+Price:     650 Gil
+Sell:      325 Gil
+Spirit:    +1
+Defence:   +9
+Mag Def:   +1
+Abilities: Jelly
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Found in Lindblums Industrial District (Disc 1)
+        :  Found in Gizamaluke Grotto             (Disc 1/2/3/4)
+        :  Buy from Atla's Mogshop in Burmecia    (Disc 1/2/3/4)
+        :  Buy from Summit Station                (Disc 2)
+        :  Buy from Treno                         (Disc 2)
+        :  Buy from Lindblum                      (Disc 2)
+        :  Buy from the Black Mage Village        (Disc 2/3)
+
+Name:      Chain Plate
+Info:      "Plate that provides brimming strength"
+Price:     810 Gil
+Sell:      405 Gil
+Strength:  +1
+Defence:   +10
+Element:   Weak against Thunder
+Abilities: Devil Killer
+Used by:   Zidane and Amarant
+Location:  Steal from Beatrix                             (Disc 1)
+        :  Buy from Treno Weapon shop                     (Disc 2)
+        :  Found in Gargan Roo                            (Disc 2)
+        :  Buy from Burmecian Dan's Weapon shop at Cleyra (Disc 2)
+        :  Buy from Lindblum Weapon Shop                  (Disc 2)
+        :  Buy from Treasure Hunter at Fossil Roo         (Disc 2)
+        :  Buy from Black Mage Village                    (Disc 2/3)
+
+Name:      Dark Gear
+Info:      "Gear that raises spirit"
+Price:     16300 Gil
+Sell:      8150 Gil
+Spirit:    +3
+Defence:   +37
+Abilities: Clear Headed and Jelly
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Steal from Garland              (Disc 3)
+        :  Buy from the Black Mage Village (Disc 4)
+
+Name:      Demon's Vest
+Info:      "Supposedly, a vest that belonged to a demon"
+Price:     10250 Gil
+Sell:      5125 Gil
+Magic:     +1
+Defence:   +31
+Element:   Half's Shadow
+Abilities: Auto-Potion, Devil Killer and Locomotion
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Steal from Meltigemini                      (Disc 3)
+        :  Buy from Daguerreo                          (Disc 3/4)
+        :  Found in Terra                              (Disc 3)
+        :  Buy from Moorock's Mogshop in Bran Bal      (Disc 3)
+
+Name:      Gaia Gear
+Info:      "Robe blessed by the earth god"
+Price:     8700 Gil
+Sell:      435 Gil
+Defence:   +25
+Mag Def:   +2
+Element:   Absorbs Earth, enhances Earth
+Abilities: High Tide, Insomniac, and Osmose
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Found in the Chocograph 8, Faraway Lagoon   (Disc 3/4)
+        :  Found in Oeilvert                           (Disc 3)
+        :  Found in Mount Gulug                        (Disc 3)
+        :  Buy from Daguerreo                          (Disc 3)
+        :  Buy from Kumool's Mogshop in Ipsen's Castle (Disc 3/4)
+
+Name:      Judo Uniform
+Info:      "Clothes from a foreign land"
+Price:     5000 Gil
+Sell:      2150 Gil
+Strength:  +1
+Spirit:    +1
+Defence:   +23
+Abilities: Distract and HP+10%
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Buy from Mimoza's Mogshop in Oeilvert          (Disc 3)
+        :  Buy from Mojito's Mogshop in the Desert Palace (Disc 3)
+        :  Buy from Esto Gaza after the Desert Palace     (Disc 3)
+
+Name:      Leather Plate
+Info:      "Plate worn for combat"
+Price:     530 Gil
+Sell:      265 Gil
+Defence:   +8
+Element:   Half's Ice
+Abilities: Charka
+Used by:   Zidane and Amarant
+Location:  Steal from Black Waltz #2            (Disc 1)
+        :  Found in Lindblums Business District (Disc 1)
+        :  Buy from Lindblum                    (Disc 1/2)
+        :  Initially equipped to Marcus         (Disc 2)
+        :  Buy from Treno                       (Disc 2)
+        :  Buy from the Black Mage Village      (Disc 2/3)
+
+Name:      Leather Shirt
+Info:      "Shirt made of leather"
+Price:     270 Gil
+Sell:      135 Gil
+Defence:   +6
+Abilities: Protect Girls
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Initially equipped to Zidane (Disc 1)
+        :  Initially equipped to Vivi   (Disc 1)
+        :  Buy from Dali                (Disc 1/2/3/4)
+
+Name:      Magician Cloak
+Info:      "Cloak that holds magic powers"
+Price:     1850 Gil
+Sell:      925 Gil
+Magic:     +1
+Defence:   +15
+Mag Def:   +2
+Element:   Enhances Ice
+Abilities: Insomniac and MP+10%
+Used by:   Vivi, Garnet, Quina and Eiko
+Location:  Buy from Conde Petie            (Disc 2/3)
+        :  Buy from the Black Mage Village (Disc 2/3)
+        :  Buy from Madain Sari            (Disc 2/3/4)
+        :  Steal from Soul Cage            (Disc 2)
+        :  Buy from Alexandria             (Disc 3/4)
+        :  Buy from Treno                  (Disc 3/4)
+        :  Buy from Lindblum               (Disc 3/4)
+
+Name:      Minerva's Plate
+Info:      "Plate worn by women"
+Price:     12200 Gil
+Sell:      6100 Gil
+Strength:  +1
+Magic:     +2
+Defence:   +34
+Mag Def:   +1
+Abilities: High Tide and Restore HP
+Used by:   Garnet, Freya and Eiko
+Location:  Found in Terra                         (Disc 3)
+        :  Buy from Moorock's Mogshop in Bran Bal (Disc 3)
+        :  Buy from Daguerreo                     (Disc 4)
+
+Name:      Mythril Vest
+Info:      "Vest braided with mythril"
+Price:     1180 Gil
+Sell:      590 Gil
+Defence:   +12
+Element:   Half's Water
+Abilities: Auto-Potion
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Found in Cleyra's Tree Trunk                   (Disc 2)
+        :  Buy from Burmecian Dan's Weapon Shop in Cleyra (Disc 2)
+        :  Steal from Antlion                             (Disc 2)
+        :  Found in Pinnacle Rocks                        (Disc 2)
+        :  Buy from Lindblum                              (Disc 2)
+        :  Buy from Merchant at Dragon's Gate             (Disc 2)
+        :  Buy from Treasure Hunter in Fossil Roo         (Disc 2)
+        :  Buy from the Black Mage Village                (Disc 2/3)
+        :  Buy from Esto Gaza before the Desert Palace    (Disc 3)
+
+Name:      Ninja Gear
+Info:      "Gear that makes you light-footed"
+Price:     14000 Gil
+Sell:      7000 Gil
+Speed:     +1
+Defence:   +35
+Element:   Absorbs Shadow
+Abilities: Alert, Eye 4 Eye and Locomotion
+Used by:   Zidane and Amarant
+Location:  Steal from Quale   (Disc 1/2/3/4)
+        :  Steal from Garland (Disc 3)
+        :  Buy from Daguerreo (Disc 4)
+
+Name:      Power Vest
+Info:      "Raises strength"
+Price:     7200 Gil
+Sell:      3600 Gil
+Strength:  +2
+Defence:   +27
+Abilities: Counter, Gamble Defence and Stone Killer
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Found in Oeilvert                           (Disc 3)
+        :  Steal from Ark                              (Disc 3)
+        :  Buy from Esto Gaza after the Desert Palace  (Disc 3)
+        :  Buy from Kumool's Mogshop in Ipsen's Castle (Disc 3/4)
+
+Name:      Rubber Suit
+Info:      "Suit worn by women"
+Price:     20000 Gil
+Sell:      10000 Gil
+Defence:   +39
+Evade:     +2
+Mag Def:   +1
+Mag Evade: +3
+Element:   Neutralises Thunder
+Abilities: Esuna and Eye 4 Eye
+Used by:   Garnet, Freya and Eiko
+Location:  Steal from Earth Guardian       (Disc 3)
+        :  Synth at the Black Mage Village (Disc 4)
+
+Name:      Silk Shirt
+Info:      "Silk burns easily"
+Price:     400 Gil
+Sell:      200 Gil
+Defence:   +7
+Element:   Half's Thunder, weak against Fire
+Abilities: Cure and Thunder
+Used by:   Zidane, Vivi, Garnet, Quina and Eiko
+Location:  Steal from Steiner                                 (Disc 1)
+        :  Impress 80-99 Nobles during the Blank/Zidane sword (Disc 1)
+           fight and when you get control of Steiner visit
+           the balcony and talk to Queen Brahne
+        :  Initially equipped to Garnet                       (Disc 1)
+        :  Initially equipped to Blank                        (Disc 1)
+        :  Steal from Black Waltz                             (Disc 1)
+        :  Buy from Dali                                      (Disc 1/2/3/4)
+        :  Buy from Treno                                     (Disc 2)
+        :  Buy from Lindblum                                  (Disc 2)
+        :  Buy from the Black Mage Village                    (Disc 2/3)
+        :  Initially equipped to Eiko                         (Disc 2)
+
+Name:      Survival Vest
+Info:      "Vest that raises spirit"
+Price:     2900 Gil
+Sell:      1450 Gil
+Spirit:    +2
+Defence:   +17
+Abilities: Antibody, Mug and Locomotion
+Used by:   Zidane, Vivi, Garnet, Amarant, Quina and Eiko
+Location:  Steal from Beatrix              (Disc 2)
+        :  Found in Fossil Roo             (Disc 2)
+        :  Buy from the Black Mage Village (Disc 2/3)
+        :  Buy from Madain Sari            (Disc 2/3/4)
+        :  Found in Madain Sari            (Disc 2)
+        :  Buy from Alexandria             (Disc 3/4)
+        :  Buy from Treno                  (Disc 3/4)
+        :  Buy from Lindblum               (Disc 3/4)
+
+
+-------------------------------------------------------------------------------
+S.                              ROBES [Rbs]
+-------------------------------------------------------------------------------
+Name:      Black Robe
+Info:      "Robe made for black mages"
+Price:     8000 Gil
+Sell:      14500 Gil
+Magic:     +2
+Defence:   +43
+Mag Def:   +4
+Element:   Enhances Shadow, weak against Fire
+Abilities: Flare, MP+20% and Reflectx2
+Used by:   Vivi and Quina
+Location:  Found in the Dive Spot south of the Forgotten Continent (Disc 3/4)
+        :  Synth at Daguerreo                                      (Disc 3/4)
+        :  Steal from Lich                                         (Disc 4)
+
+Name:      Cotton Robe
+Info:      "Ordinary Robe"
+Price:     1000 Gil
+Sell:      2000 Gil
+Strength:  +1
+Magic:     +1
+Defence:   +10
+Mag Def:   +2
+Element:   Weak against Fire
+Abilities: Chemist and Shell
+Used by:   Vivi, Garnet, Quina and Eiko
+Location:  Synth at Lindblum                            (Disc 1/2/3/4)
+        :  Found in the Chocograph 2, Between Mountains (Disc 1/2/3/4)
+        :  Synth at Treno                               (Disc 2/3/4)
+        :  Synth at the Black Mage Village              (Disc 2/3)
+        :  Synth at Alexandria                          (Disc 3/4)
+
+Name:      Glutton's Robe
+Info:      "Robe worn by qu's"
+Price:     6000 Gil
+Sell:      8000 Gil
+Strength:  +1
+Magic:     +1
+Defence:   +41
+Mag Def:   +4
+Element:   Weak against Fire
+Abilities: Antibody, Auto-Regen and Body Temp
+Used by:   Quina
+Location:  Steal from Quale   (Disc 1/2/3/4)
+        :  Synth at Daguerreo (Disc 3/4)
+        :  Steal from Kraken  (Disc 4)
+
+Name:      Light Robe
+Info:      "Robe possessed by the spirit of light"
+Price:     20000 Gil
+Sell:      20000 Gil
+Strength:  +1
+Magic:     +1
+Spirit:    +1
+Defence:   +41
+Mag Def:   +6
+Element:   Enhances Holy/Shadow, weak against Fire
+Abilities: Auto-Regen, Full-Life and Half MP
+Used by:   Vivi, Garnet, Quina and Eiko
+Location:  Found in the Chocograph 18, Ocean (Disc 3/4)
+        :  Steal from Kuja                   (Disc 3)
+        :  Synth at the Black Mage Village   (Disc 4)
+
+Name:      Magician Robe
+Info:      "Shirt made for mages"
+Price:     3000 Gil
+Sell:      4000 Gil
+Magic:     +2
+Defence:   +21
+Mag Def:   +3
+Element:   Weak against Fire
+Abilities: Auto-Potion and MP+10%
+Used by:   Vivi, Garnet, Quina and Eiko
+Location:  Buy from the Treno Auction                    (Disc 2/3/4)
+        :  Synth at Alexandria                           (Disc 3/4)
+        :  Synth at Treno                                (Disc 3/4)
+        :  Synth at Lindblum                             (Disc 3/4)
+        :  Found in the Chocograph 10, Bird's Eye Lagoon (Disc 1/2/3/4)
+        :  Synth at Daguerreo                            (Disc 3/4)
+
+Name:      Robe of Lords
+Info:      "The greatest robe"
+Price:     30000 Gil
+Sell:      26000 Gil
+Speed:     +1
+Strength:  +1
+Magic:     +1
+Spirit:    +1
+Defence:   +46
+Mag Def:   +5
+Element:   Neutralises Wind
+Abilities: Concentrate and Reflect-Null
+Used by:   Vivi, Garnet, Quina and Eiko
+Location:  Exchange for 10000 H&C points              (Disc 1/2/3/4)
+        :  Steal from Quale                           (Disc 1/2/3/4)
+        :  Steal from Ozma                            (Disc 3/4)
+        :  Give Queen Stella at Treno 12 Stellazzio's (Disc 4)
+        :  Steal from Hades                           (Disc 4)
+        :  Synth at Hades Synthesis Shop in Memoria   (Disc 4)
+
+Name:      Silk Robe
+Info:      "Robe made of silk"
+Price:     2000 Gil
+Sell:      2900 Gil
+Strength:  +1
+Magic:     +1
+Defence:   +16
+Mag Def:   +2
+Element:   Weak against Fire
+Abilities: Ability Up and Loudmouth
+Used by:   Vivi, Garnet, Quina and Eiko
+Location:  Got for collecting 9 Frogs at a Qu's Marsh (Disc 1/2/3/4)
+        :  Found in the Cleyra Tree Trunk             (Disc 2)
+        :  Synth at Lindblum                          (Disc 2/3/4)
+        :  Synth at the Black Mage Village            (Disc 2/3)
+        :  Synth at Alexandria                        (Disc 3/4)
+        :  Synth at Treno                             (Disc 3/4)
+        :  Synth at Daguerreo                         (Disc 3/4)
+
+Name:      White Robe
+Info:      "Robe made for white mages"
+Price:     8000 Gil
+Sell:      14500 Gil
+Magic:     +2
+Defence:   +42
+Mag Def:   +4
+Element:   Enhances Holy, weak against Fire
+Abilities: Auto-Potion, Holy and Loudmouth
+Used by:   Garnet and Eiko
+Location:  Found in the Chocograph 17, Sea at Dusk (Disc 3/4)
+        :  Synth at Daguerreo                      (Disc 3/4)
+        :  Steal from Trance Kuja                  (Disc 4)
+
+
+-------------------------------------------------------------------------------
+T.                              ARMOURS [Amr]
+-------------------------------------------------------------------------------
+Name:      Bronze Armour
+Info:      "Armour made of bronze"
+Price:     650 Gil
+Sell:      325 Gil
+Defence:   +9
+Element:   Half's Wind
+Abilities: Bird Killer
+Used by:   Steiner and Freya
+Location:  Initially equipped to Steiner (Disc 1)
+        :  Buy from Dali                 (Disc 1/2/3/4)
+
+Name:      Carabini Mail
+Info:      "Armour protected by extraordinary powers"
+Price:     12300 Gil
+Sell:      6150 Gil
+Speed:     +1
+Spirit:    +1
+Defence:   +39
+Mag Def:   +1
+Abilities: Auto-Regen
+Used by:   Steiner and Freya
+Location:  Found in Pandemonium (Disc 3)
+        :  Steal from Kuja      (Disc 3)
+        :  Buy from Daguerreo   (Disc 4)
+
+Name:      Chain Mail
+Info:      "Armour made with chains"
+Price:     1200 Gil
+Sell:      600 Gil
+Defence:   +12
+Element:   Half's Earth
+Abilities: Bird Killer and HP+10%
+Used by:   Steiner and Freya
+Location:  Buy from Treno Weapon shop                     (Disc 2)
+        :  Buy from Burmecian Dan's Weapon Shop in Cleyra (Disc 2)
+        :  Initially equipped to Beatrix                  (Disc 2)
+        :  Buy from Lindblum Weapon Shop                  (Disc 2)
+
+Name:      Demon's Mail
+Info:      "Armour made in the dark world"
+Price:     5900 Gil
+Sell:      2950 Gil
+Defence:   +27
+Element:   Absorbs Shadow, enhances Shadow
+Abilities: High Tide
+Used by:   Steiner and Freya
+Location:  Steal from Tantarian                          (Disc 2/3)
+        :  Found in the Chocograph 16, Forgotten Plains  (Disc 3/4)
+        :  Found in Mount Gulug                          (Disc 3)
+        :  Buy from Kumool's Mogshop in Ipsen's Castle   (Disc 3/4)
+        :  Buy from Daguerreo                            (Disc 3)
+
+Name:      Diamond Armour
+Info:      "Armour made of diamond"
+Price:     8800 Gil
+Sell:      4400 Gil
+Strength:  +1
+Magic:     +1
+Defence:   +33
+Mag Def:   +2
+Abilities: Ability Up
+Used by:   Steiner and Freya
+Location:  Buy from Daguerreo (Disc 3)
+
+Name:      Dragon Mail
+Info:      "Armour made from a dragon's scale"
+Price:     14000 Gil
+Sell:      7000 Gil
+Strength:  +1
+Magic:     +1
+Defence:   +42
+Abilities: High Jump
+Used by:   Freya
+Location:  Steal from Silver Dragon (Disc 3)
+        :  Buy from Daguerreo       (Disc 4)
+
+Name:      Genji Armour
+Info:      "Very famous brand of armour"
+Price:     N/A
+Sell:      1 Gil
+Magic:     +2
+Defence:   +45
+Mag Def:   +1
+Abilities: Accuracy+ and Body Temp
+Used by:   Steiner and Freya
+Location:  Found in the Chocograph 21, Outer Island (Disc 3/4)
+        :  Steal from Maliris                       (Disc 4)
+
+Name:      Gold Armour
+Info:      "Armour made of gold"
+Price:     2950 Gil
+Sell:      1475 Gil
+Magic:     +1
+Defence:   +19
+Abilities: Stone Killer
+Used by:   Steiner and Freya
+Location:  Buy from Mimoza's Mogshop in Oeilvert          (Disc 3)
+        :  Buy from Mojito's Mogshop in the Desert Palace (Disc 3)
+        :  Buy from Esto Gaza after the Desert Palace     (Disc 3)
+
+Name:      Grand Armour
+Info:      "The greatest armour"
+Price:     45000 Gil
+Sell:      14000 Gil
+Strength:  +1
+Defence:   +59
+Element:   Half's Shadow
+Abilities: Chemist and Restore HP
+Used by:   Steiner and Freya
+Location:  Synth at the Black Mage Village (Disc 4)
+        :  Steal from Nova Dragon          (Disc 4)
+
+Name:      Linen Cuirass
+Info:      "Armour packed with magic"
+Price:     800 Gil
+Sell:      400 Gil
+Magic:     +1
+Defence:   +10
+Abilities: Cover
+Used by:   Steiner and Freya
+Location:  Steal from Black Waltz #3           (Disc 1)
+        :  Initially equipped to Freya         (Disc 1)
+        :  Buy from Lindblum                   (Disc 1)
+        :  Buy from Atla's Mogshop in Burmecia (Disc 1/2/3/4)
+        :  Buy from Summit Station             (Disc 2)
+        :  Buy from Treno                      (Disc 2/3/4)
+
+Name:      Maximillian
+Info:      "Armour worn exclusively by knights"
+Price:     N/A
+Sell:      11300 Gil
+Spirit:    +3
+Defence:   +54
+Abilities: HP+20%
+Used by:   Steiner
+Location:  Found in the Dive Spot where Shimmering Island was (Disc 4)
+
+Name:      Mythril Armour
+Info:      "Armour made of mythril"
+Price:     1830 Gil
+Sell:      915 Gil
+Defence:   +15
+Element:   Half's Water
+Abilities: Cover and Jelly
+Used by:   Steiner and Freya
+Location:  Buy from Burmecian Dan's Weapon Shop in Cleyra (Disc 2)
+        :  Steal from Zorn                                (Disc 2)
+        :  Buy from Lindblum                              (Disc 2/3/4)
+        :  Buy from Merchant at Dragon's Gate             (Disc 2)
+        :  Buy from Alexandria                            (Disc 3/4)
+        :  Buy from Treno                                 (Disc 3/4)
+        :  Buy from Esto Gaza before the Desert Palace    (Disc 3)
+
+Name:      Plate Mail
+Info:      "Armour that raises spirit"
+Price:     2320 Gil
+Sell:      1160 Gil
+Spirit:    +1
+Defence:   +17
+Mag Def:   +1
+Abilities: Locomotion and Undead Killer
+Used by:   Steiner and Freya
+Location:  Buy from Alexandria                   (Disc 3/4)
+        :  Buy from Treno                        (Disc 3/4)
+        :  Initially equipped to Beatrix         (Disc 3)
+        :  Buy from Lindblum                     (Disc 3/4)
+        :  Buy from Mimoza's Mogshop in Oeilvert (Disc 3)
+
+Name:      Platina Armour
+Info:      "Armour made of platinum"
+Price:     10500 Gil
+Sell:      5250 Gil
+Defence:   +36
+Element:   Neutralises Ice
+Abilities: Beast Killer
+Used by:   Steiner and Freya
+Location:  Buy from Moorock's Mogshop in Bran Bal (Disc 3)
+        :  Buy from Daguerreo                     (Disc 4)
+
+Name:      Shield Armour
+Info:      "Armour that provides excellent protection"
+Price:     4300 Gil
+Sell:      2150 Gil
+Defence:   +23
+Mag Def:   +5
+Element:   Half's Fire/Ice/Thunder
+Abilities: Distract
+Used by:   Steiner and Freya
+Location:  Found in the Chocograph 8 Faraway Lagoon    (Disc 3/4)
+        :  Found in Oeilvert                           (Disc 3)
+        :  Found in the Desert Palace                  (Disc 3)
+        :  Buy from Esto Gaza after the Desert Palace  (Disc 3)
+        :  Buy from Kumool's Mogshop in Ipsen's Castle (Disc 3/4)
+
+Name:      Tin Armour
+Info:      "Tin armour that looks like a toy"
+Price:     50000 Gil
+Sell:      10 Gil
+Defence:   +62
+Evade:     +32
+Mag Def:   +27
+Mag Evade: +17
+Used by:   Steiner
+Location:  Synth at Hades Synthesis Shop (Disc 4)
+
+
+-------------------------------------------------------------------------------
+U.                             ADD-ONS [Adn]
+-------------------------------------------------------------------------------
+Name:      Amethyst
+Info:      "Restores HP. It cannot be used in the field. Equip as an Add-on"
+Price:     200 Gil
+Sell:      1 Gil
+Effect:    Restores HP equal to # of Amethyst x20
+      :    Raises Atomos power by 1 for each Amethyst you have
+Abilities: Atomos and Demi
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Given to you by Doctor Tot                   (Disc 3)
+        :  Found in Alexandria                          (Disc 3/4)
+        :  Synth at Daguerreo                           (Disc 3/4)
+        :  Found in the Chocograph 21, Outer Island     (Disc 3/4)
+        :  Found in the Chocograph 24, Forgotten Island (Disc 3/4)
+        :  Synth at the Black Mage Village              (Disc 4)
+        :  Synth at Hades Synthesis Shop                (Disc 4)
+
+Name:      Ancient Aroma
+Info:      "Item that radiates a mysterious light"
+Price:     N/A
+Sell:      1 Gil
+Strength:  +2
+Evade:     +4
+Element:   Enhances Shadow, weak against Holy
+Abilities: Odin's Sword
+Used by:   Garnet, Freya and Eiko
+Location:  Found in Ipsen's Castle (Disc 3/4)
+
+Name:      Angel Earrings
+Info:      "Holy earrings worn by women"
+Price:     8000 Gil
+Sell:      10000 Gil
+Strength:  +2
+Defence:   +2
+Element:   Enhances Holy
+Abilities: Auto-Regen, MP+20% and Reis's Wind
+Used by:   Garnet, Freya and Eiko
+Location:  Given to you if you assign all the right jobs to (Disc 3)
+           the Knight's of Pluto
+        :  Synth at Daguerreo                               (Disc 3/4)
+        :  Found in Bran Bal                                (Disc 3)
+
+Name:      Anklet
+Info:      "Anklet adorned with a four-leaf clover that raises spirit"
+Price:     4000 Gil
+Sell:      1600 Gil
+Magic:     +3
+Spirit:    +1
+Evade:     +5
+Abilities: Counter, Healer and Locomotion
+Used by:   Garnet, Amarant, Freya and Eiko
+Location:  Can be dug up playing H&C  (Disc 1/2/3/4)
+        :  Synth at Alexandria        (Disc 3/4)
+        :  Buy from the Treno Auction (Disc 3/4)
+        :  Synth at Treno             (Disc 3/4)
+        :  Synth at Lindblum          (Disc 3/4)
+        :  Found in the Desert Palace (Disc 3)
+        :  Synth at Daguerreo         (Disc 3/4)
+
+Name:      Aquamarine
+Info:      "Restores HP. It cannot be used in the field. Equip as an Add-on"
+Price:     N/A
+Sell:      1 Gil
+Effect:    Restores HP equal to # of Aquamarine x28
+      :    Raises Leviathans power by 1 for each Aquamarine you have
+Abilities: HP+10% and Leviathan
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Found in the Iifa Tree                             (Disc 2)
+        :  Exchange 4 Ore for 1 at the statue in Daguerreo    (Disc 3/4)
+        :  Found in the Dive Spot where Shimmering Island was (Disc 4)
+
+Name:      Barette
+Info:      "Hair ornament enchanted with various powers, worn by women"
+Price:     1800 Gil
+Sell:      3500 Gil
+Strength:  +3
+Magic:     +1
+Spirit:    +1
+Mag Def:   +1
+Element:   Enhances Ice
+Abilities: Chemist, Cura and Gamble Defence
+Used by:   Garnet, Freya and Eiko
+Location:  Can be dug up playing H&C       (Disc 1/2/3/4)
+        :  Synth at Lindblum               (Disc 2/3/4)
+        :  Synth at the Black Mage Village (Disc 2/3)
+        :  Synth at Alexandria             (Disc 3/4)
+        :  Synth at Treno                  (Disc 3/4)
+        :  Found in Ipsen's Castle         (Disc 3/4)
+        :  Synth at Daguerreo              (Disc 3/4)
+
+Name:      Battle Boots
+Info:      "Combat boots"
+Price:     6500 Gil
+Sell:      10500 Gil
+Strength:  +2
+Defence:   +2
+Mag Def:   +1
+Abilities: Initiative, MP Attack and HP+20%
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Got for collecting 45 Frogs at a Qu's Marsh (Disc 1/2/3/4)
+        :  Synth at Daguerreo                          (Disc 3/4)
+        :  Found in Pandemonium                        (Disc 3)
+        :  Steal from Garland                          (Disc 3)
+        :  Steal from Hades                            (Disc 4)
+
+Name:      Black Belt
+Info:      "Belt that raises strength"
+Price:     4000 Gil
+Sell:      5500 Gil
+Strength:  +2
+Spirit:    +2
+Defence:   +1
+Element:   Enhances Wind
+Abilities: Beast Killer, Demi and HP+20%
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Found in the Black Mage Village           (Disc 2/3/4)
+        :  Synth at Alexandria                       (Disc 3/4)
+        :  Give Queen Stella at Treno 8 Stellazzio's (Disc 3/4)
+        :  Synth at Treno                            (Disc 3/4)
+        :  Synth at Lindblum                         (Disc 3/4)
+        :  Synth at Daguerreo                        (Disc 3/4)
+        :  Steal from Deathguise                     (Disc 4)
+
+Name:      Cachusha
+Info:      "Hair ornament enchanted with various powers, worn by women"
+Price:     1000 Gil
+Sell:      1500 Gil
+Speed:     +1
+Magic:     +2
+Spirit:    +1
+Mag Def:   +1
+Element:   Enhances Fire
+Abilities: Ability Up, Bright Eyes and Life
+Used by:   Garnet, Freya and Eiko
+Location:  Can be dug up playing H&C       (Disc 1/2/3/4)
+        :  Synth at Treno                  (Disc 2/3/4)
+        :  Synth at Lindblum               (Disc 2/3/4)
+        :  Synth at the Black Mage Village (Disc 2/3)
+        :  Synth at Alexandria             (Disc 3/4)
+        :  Found in Dali                   (Disc 3)
+        :  Synth at Daguerreo              (Disc 3/4)
+
+Name:      Coral Ring
+Info:      "Ring adorned with corals"
+Price:     1200 Gil
+Sell:      2000 Gil
+Spirit:    +2
+Mag Evade: +3
+Element:   Absorbs Thunder
+Abilities: Insomniac, Lancer and Man Eater
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Got for letting Freya win the Festival of the Hunt (Disc 1)
+        :  Synth at Treno                                     (Disc 2/3/4)
+        :  Synth at Lindblum                                  (Disc 2/3/4)
+        :  Synth at the Black Mage Village                    (Disc 2/3)
+        :  Synth at Alexandria                                (Disc 3/4)
+        :  Synth at Daguerreo                                 (Disc 3/4)
+
+Name:      Dark Matter
+Info:      "Deals damage to the target. Equip as an Add-on"
+Price:     N/A
+Sell:      1 Gil
+Strength:  +3
+Magic:     +2
+Effect:    Deals 9999 damage
+Abilities: Odin
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Buy from the Treno Auction     (Disc 3/4)
+        :  Steal one from Ozma            (Disc 3/4)
+        :  Dropped after battle with Ozma (Disc 3/4)
+
+Name:      Desert Boots
+Info:      "Boots with good traction"
+Price:     300 Gil
+Sell:      750 Gil
+Magic:     +1
+Spirit:    +1
+Evade:     +2
+Element:   Half's Earth, Weak against Water
+Abilities: Flee-Gil, Protect and Scan
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Synth at Lindbulm               (Disc 1/2/3/4)
+        :  Synth at Treno                  (Disc 2/3/4)
+        :  Found in the Cleyra Tree Trunk  (Disc 2)
+        :  Initially equipped to Beatrix   (Disc 2)
+        :  Synth at the Black Mage Village (Disc 2/3)
+        :  Synth at Alexandria             (Disc 3/4)
+
+Name:      Diamond
+Info:      "Restores HP. It cannot be used in the field. Equip as an Add-on"
+Price:     N/A
+Sell:      1 Gil
+Effect:    Restores HP equal to # of Diamond x36
+      :    Equip to Eiko to be able to use Diamond Light
+Abilities: Body Temp and Distract
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Found on the Kirkboat at Conde Petie    (Disc 2/3)
+        :  Found in the Chocograph 17, Sea at Dusk (Disc 3/4)
+        :  Dropped by the Friendly Garuda          (Disc 3/4)
+        :  Buy from Stiltzkin at Bran Bal          (Disc 3)
+
+Name:      Emerald
+Info:      "Restores HP. It cannot be used in the field. Equip as an Add-on"
+Price:     N/A
+Sell:      1 Gil
+Effect:    Restores HP equal to # of Emerald x44
+      :    Equip to Eiko to be able to use Emerald Light
+Abilities: Haste, MP+10% and White Draw
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Talk to the Cleyran High Priest when as Freya (Disc 2)
+        :  Dropped by the Friendly Nymph                 (Disc 2/3/4)
+        :  Buy from Stiltzkin at Oeilvert                (Disc 3)
+
+Name:      Extension
+Info:      "Hair ornament enchanted with various powers, worn by women"
+Price:     3500 Gil
+Sell:      5000 Gil
+Strength:  +1
+Magic:     +2
+Spirit:    +1
+Defence:   +1
+Mag Def:   +1
+Element:   Enhances Thunder
+Abilities: Auto-Potion, Level Up and MP+10%
+Used by:   Garnet, Freya and Eiko
+Location:  Can be dug up playing H&C                     (Disc 1/2/3/4)
+        :  Synth at the Black Mage Village               (Disc 2/3)
+        :  Synth at Alexandria                           (Disc 3/4)
+        :  Synth at Treno                                (Disc 3/4)
+        :  Synth at Lindblum                             (Disc 3/4)
+        :  Give Moguta a Kupo Nut in Gizamaluke's Grotto (Disc 3)
+        :  Synth at Daguerreo                            (Disc 3/4)
+
+Name:      Fairy Earrings
+Info:      "Earrings that raises spirit"
+Price:     3200 Gil
+Sell:      3000 Gil
+Spirit:    +2
+Evade:     +4
+Mag Evade: +2
+Element:   Enhances Wind
+Abilities: Body Temp, Level Up and Regen
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Buy from the Treno Auction      (Disc 2/3/4)
+        :  Found in Fossil Roo             (Disc 2)
+        :  Synth at the Black Mage Village (Disc 2/3)
+        :  Synth at Alexandria             (Disc 3/4)
+        :  Synth at Treno                  (Disc 3/4)
+        :  Synth at Lindblum               (Disc 3/4)
+        :  Found in the Desert Palace      (Disc 3)
+        :  Synth at Daguerreo              (Disc 3/4)
+
+Name:      Feather Boots
+Info:      "Boots that are light as a feather"
+Price:     4000 Gil
+Sell:      3000 Gil
+Evade:     +3
+Element:   Absorbs Earth
+Abilities: Auto-Float, Float and Mini
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Synth at Alexandria                         (Disc 3/4)
+        :  Buy from the Treno Auction                  (Disc 3/4)
+        :  Synth at Treno                              (Disc 3/4)
+        :  Synth at Lindblum                           (Disc 3/4)
+        :  Found in the Chocograph 9, Abandoned Lagoon (Disc 3/4)
+        :  Found in Oeilvert                           (Disc 3)
+        :  Synth at Daguerreo                          (Disc 3/4)
+        :  Steal from Tiamat                           (Disc 4)
+
+Name:      Garnet
+Info:      "Restores HP. It cannot be used in the field. Equip as an Add-on"
+Price:     350 Gil
+Sell:      1 Gil
+Effect:    Restores HP equal to # of Garnet x12
+      :    Raises Bahamuts power by 1 for each Garnet you have
+Abilities: Bahamut and Healer
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Given to you by Beatrix                  (Disc 3)
+        :  Synth at Daguerreo                       (Disc 3/4)
+        :  Found in the Chocograph 21, Outer Island (Disc 3/4)
+        :  Synth at the Black Mage Village          (Disc 4)
+        :  Synth at Hades Synthesis Shop            (Disc 4)
+
+Name:      Germinas Boots
+Info:      "Boots that raise strength"
+Price:     900 Gil
+Sell:      2000 Gil
+Strength:  +1
+Evade:     +2
+Element:   Enhances Earth
+Abilities: Alert, Flee and HP+10%
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Found in the Chocograph 1, Streamside (Disc 1/2/3/4)
+        :  Found in Burmecia                     (Disc 1)
+        :  Synth at Treno                        (Disc 2/3/4)
+        :  Synth at Lindblum                     (Disc 2/3/4)
+        :  Synth at the Black Mage Village       (Disc 2/3/4)
+        :  Initially equipped to Amarant         (Disc 2)
+        :  Synth at Alexandria                   (Disc 3/4)
+
+Name:      Glass Buckle
+Info:      "Buckle protected by mysterious powers"
+Price:     500 Gil
+Sell:      800 Gil
+Strength:  +1
+Magic:     +1
+Spirit:    +2
+Mag Evade: +5
+Abilities: Add Status, Antibody and Thunder
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Synth at Lindblum               (Disc 1/2/3/4)
+        :  Synth at Treno                  (Disc 2/3/4)
+        :  Synth at the Black Mage Village (Disc 2/3/4)
+        :  Synth at Alexandria             (Disc 3/4)
+
+Name:      Gold Choker
+Info:      "Magic choker"
+Price:     1300 Gil
+Sell:      2000 Gil
+Magic:     +2
+Evade:     +2
+Mag Def:   +1
+Element:   Half's Wind, enhances Shadow
+Abilities: Auto-Potion, Flee-Gil and Shell
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Synth at Treno                  (Disc 2/3/4)
+        :  Synth at Lindblum               (Disc 2/3/4)
+        :  Synth at the Black Mage Village (Disc 2/3/4)
+        :  Synth at Alexandria             (Disc 3/4)
+
+Name:      Lapis Lazuli
+Info:      "Restores HP. It cannot be used in the field. Equip as an Add-on"
+Price:     400 Gil
+Sell:      1 Gil
+Effect:    Restores HP equal to # of Lapis Lazuli x100
+      :    Raises Arks power by 1 for each Lapis Lazuli you have
+Abilities: Ability Up and Accuracy+
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Found in Alexandria Castle                        (Disc 3)
+        :  Found in Lindblum                                 (Disc 3/4)
+        :  Dropped by the Friendly Feather Circle            (Disc 3/4)
+        :  Found in the Mountain Crack on the Lost Continent (Disc 3/4)
+        :  Synth at the Black Mage Village                   (Disc 4)
+        :  Synth at Hades Synthesis Shop                     (Disc 4)
+
+Name:      Madain's Ring
+Info:      "Ring used as a charm since ancient times"
+Price:     3000 Gil
+Sell:      3750 Gil
+Spirit:    +2
+Mag Def:   +2
+Element:   Absorbs Ice
+Abilities: Body Temp, Chemist and Guardian Mog
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Buy from the Treno Auction                         (Disc 2/3/4)
+        :  Found playing the digging game in Fossil Roo       (Disc 2)
+        :  Synth at the Black Mage Village                    (Disc 2/3)
+        :  Synth at Alexandria                                (Disc 3/4)
+        :  Synth at Treno                                     (Disc 3/4)
+        :  Synth at Lindblum                                  (Disc 3/4)
+        :  Found in the Mountain Crack north east of Oeilvert (Disc 3/4)
+        :  Synth at Daguerreo                                 (Disc 3/4)
+
+Name:      Magician Shoes
+Info:      "Shoes packed with magic"
+Price:     1500 Gil
+Sell:      3750 Gil
+Magic:     +2
+Mag Evade: +6
+Abilities: Blind, Clear Headed and MP+10%
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Found in the Cleyra Tree Trunk  (Disc 2)
+        :  Synth at Lindblum               (Disc 2/3/4)
+        :  Synth at the Black Mage Village (Disc 2/3)
+        :  Synth at Alexandria             (Disc 3/4)
+        :  Synth at Treno                  (Disc 3/4)
+        :  Synth at Daguerreo              (Disc 3/4)
+
+Name:      Maiden Prayer
+Info:      "Item that has a nice fragrance"
+Price:     N/A
+Sell:      1 Gil
+Magic:     +1
+Mag Def:   +1
+Mag Evade: +3
+Effect:    Equip to Eiko to be able to use Millennial Decay
+Element:   Enhances Holy, weak against Shadow
+Abilities: Auto-Regen
+Used by:   Garnet, Freya and Eiko
+Location:  Found in the Mountain Crack north west of Oeilvert (Disc 3/4)
+        :  Found in Ipsen's Castle                            (Disc 3/4)
+
+Name:      Moonstone
+Info:      "Restores HP. It cannot be used in the field. Equip as an Add-on"
+Price:     N/A
+Sell:      1 Gil
+Effect:    Restores HP equal to # of Moonstone x52
+      :    Equip to Eiko to be able to use Pearl Light
+Abilities: Beast Killer and Shell
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Impress 100 Nobles during the Blank/Zidane sword    (Disc 1)
+           fight and when you get control of Steiner head to
+           the balcony and talk to Queen Brahne
+        :  Put all 4 Coloured Stones in to the statue at the   (Disc 2/3)
+           Conde Petie Mountain Path.
+        :  Dropped by the Friendly Jabberwock                  (Disc 3/4)
+        :  Buy from Stiltzkin at Alexandria                    (Disc 4)
+
+Name:      Opal
+Info:      "Restores HP. It cannot be used in the field. Equip as an Add-on"
+Price:     100 Gil
+Sell:      1 Gil
+Effect:    Restores HP equal to # of Opal x84
+      :    Raises Shivas power by 1 for each Opal you have
+Abilities: Blizzara and Shiva
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Given to you by Doctor Tot                   (Disc 3)
+        :  Found in Alexandria                          (Disc 3/4)
+        :  Found in the Chocograph 19, Cold Lagoon      (Disc 3/4)
+        :  Found in the Chocograph 16, Forgotten Plains (Disc 3/4)
+        :  Synth at Daguerreo                           (Disc 3/4)
+        :  Synth at the Black Mage Village              (Disc 4)
+        :  Synth at Hades Synthesis Shop                (Disc 4)
+
+Name:      Pearl Rouge
+Info:      "Rouge used by women that draws out holy power"
+Price:     5000 Gil
+Sell:      2000 Gil
+Magic:     +2
+Spirit:    +4
+Mag Evade: +4
+Element:   Half's Holy, enhances Water
+Abilities: Level Up, Loudmouth and Reflect-Null
+Used by:   Garnet, Freya and Eiko
+Location:  Buy from the Treno Auction (Disc 2/3/4)
+        :  Synth at Alexandria        (Disc 3/4)
+        :  Synth at Treno             (Disc 3/4)
+        :  Synth at Lindblum          (Disc 3/4)
+        :  Synth at Daguerreo         (Disc 3/4)
+
+Name:      Peridot
+Info:      "Restores HP. It cannot be used in the field. Equip as an Add-on"
+Price:     100 Gil
+Sell:      1 Gil
+Effect:    Restores HP equal to # of Peridot x68
+      :    Raises Ramuhs power by 1 for each Peridot you have
+Abilities: Ramuh and Thundara
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Complete Ramuhs story at Pinnacle Rocks    (Disc 2)
+        :  Found in the Chocograph 5, Abandoned Beach (Disc 2/3/4)
+        :  Found in Alexandria                        (Disc 3)
+        :  Found in the Chocograph 19, Cold Lagoon    (Disc 3/4)
+        :  Synth at Daguerreo                         (Disc 3/4)
+        :  Synth at the Black Mage Village            (Disc 4)
+        :  Synth at Hades Synthesis Shop              (Disc 4)
+
+Name:      Phoenix Pinion
+Info:      "Cures KO. It cannot be used in the field"
+Price:     300 Gil
+Sell:      1000 Gil
+Effect:    Increases the chance of an automatic Rebirth Flame
+Abilities: Phoenix
+Used by:   Eiko
+Location:  Start with one in your inventory           (Disc 1)
+        :  Found in Alexandria                        (Disc 1/3)
+        :  Found in the Prima Vista                   (Disc 1)
+        :  Found in Dali Underground                  (Disc 1)
+        :  Can be dug up playing H&C                  (Disc 1/2/3/4)
+        :  Give Queen Stella at Treno 2 Stellazzio's  (Disc 2/3/4)
+        :  Found in Cleyra                            (Disc 2)
+        :  Buy from Stiltzkin in Cleyra               (Disc 2)
+        :  Found in Lindblums Business District       (Disc 2)
+        :  Buy from Stiltzkin in Fossil Roo           (Disc 2)
+        :  Found in the Chocograph 5, Abandoned Beach (Disc 2/3/4)
+        :  Found in Conde Petie                       (Disc 2/3)
+        :  Found in Madain Sari                       (Disc 2/3/4)
+        :  Buy from Stiltzkin in Alexandria           (Disc 3)
+        :  Found in Alexandria                        (Disc 3)
+        :  Found in the Chocograph 17, Sea at Dusk    (Disc 3/4)
+        :  Synth at Hades Synthesis Shop              (Disc 4)
+
+Name:      Power Belt
+Info:      "Belt that raises strength"
+Price:     2000 Gil
+Sell:      3500 Gil
+Strength:  +3
+Defence:   +2
+Abilities: Counter, Fira and MP Attack
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Talk to the Four-armed Man on the path to the   (Disc 2)
+           synthesis shop in Treno after watching the ATE
+           called "Treno Tradition"
+        :  Synth at Lindblum                               (Disc 2/3/4)
+        :  Synth at the Black Mage Village                 (Disc 2/3)
+        :  Synth at Alexandria                             (Disc 3/4)
+        :  Synth at Treno                                  (Disc 3/4)
+        :  Synth at Daguerreo                              (Disc 3/4)
+
+Name:      Promist Ring
+Info:      "Ring that raises strength"
+Price:     6000 Gil
+Sell:      4500 Gil
+Strength:  +2
+Evade:     +3
+Abilities: Absorb MP, Mag Elem Null and Restore HP
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Buy from the Treno Auction (Disc 3/4)
+        :  Found in the Desert Palace (Disc 3)
+        :  Synth at Daguerreo         (Disc 3/4)
+
+Name:      Protect Ring
+Info:      "Protects you from various attacks"
+Price:     40,000 Gil
+Sell:      20,000 Gil
+Spirit:    +1
+Defence:   +2
+Evade:     +4
+Mag Def:   +3
+Mag Evade: +6
+Element:   Half's all 8 elements
+Abilities: Half MP, Long Reach and Mag Elem Null
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Exchange for 8500 H&C points                        (Disc 1/2/3/4)
+        :  Answer 13+ questions of the Ragtime Mouse correctly (Disc 3/4)
+        :  Found in the Mountain Crack on the Lost Continent   (Disc 3/4)
+        :  Got for reviving Mognet Central                     (Disc 4)
+        :  Finish the Nero Family sidequest                    (Disc 4)
+        :  Synth at Hades Synthesis Shop                       (Disc 4)
+
+Name:      Pumice
+Info:      "Summon the beast from the dark"
+Price:     50,000 Gil
+Sell:      25,000 Gil
+Speed:     +1
+Magic:     +1
+Defence:   +1
+Mag Def:   +2
+Abilities: Ark
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Defeat Ozma at Chocobo's Air Garden (Disc 3/4)
+        :  Synth at Hades Synthesis Shop       (Disc 4)
+
+Name:      Pumice Piece
+Info:      "Put it together with the other piece"
+Price:     25,000 Gil
+Sell:      1 Gil
+Strength:  +2
+Magic:     +2
+Evade:     +5
+Mag Def:   +1
+Element:   Absorb Shadow/Holy
+Abilities: Boost
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Defeat Ark at Oeilvert                     (Disc 3)
+        :  Found in the Chocograph 22, Outer Island 2 (Disc 3/4)
+        :  Steal from Ozma                            (Disc 3/4)
+        :  Synth at Hades Synthesis Shop              (Disc 4)
+
+Name:      Rebirth Ring
+Info:      "Ring with a phoenix's power dwelling inside"
+Price:     7000 Gil
+Sell:      5000 Gil
+Spirit:    +4
+Mag Def:   +2
+Element:   Enhances Holy
+Abilities: Auto-Life, Revive and Life
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Win from the Treno Card Tournament           (Disc 3)
+        :  Found in the Chocograph 24, Forgotten Island (Disc 3/4)
+        :  Synth at Daguerreo                           (Disc 3/4)
+        :  Steal from Trance Kuja                       (Disc 4)
+
+Name:      Reflect Ring
+Info:      "Ring enchanted with the spell 'Reflect'"
+Price:     7000 Gil
+Sell:      3500 Gil
+Strength:  +1
+Spirit:    +1
+Mag Def:   +1
+Element:   Weak against Fire/Ice/Thunder
+Abilities: Auto-Reflect, Distract and Reflect
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Buy from the Treno Auction      (Disc 2/3/4)
+        :  Synth at the Black Mage Village (Disc 2/3)
+        :  Synth at Alexandria             (Disc 3/4)
+        :  Synth at Treno                  (Disc 3/4)
+        :  Synth at Lindblum               (Disc 3/4)
+        :  Synth at Daguerreo              (Disc 3/4)
+        :  Steal from Hades                (Disc 4)
+
+Name:      Ribbon
+Info:      "Item that always keeps mog beside you"
+Price:     N/A
+Sell:      1 Gil
+Strength:  +1
+Magic:     +3
+Spirit:    +1
+Defence:   +1
+Evade:     +5
+Mag Def:   +1
+Mag Evade: +4
+Element:   Absorbs Water/Wind, half's Fire/Ice/Thunder/Holy
+Abilities: Ability Up, Guardian Mog and Madeen
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Got automatically at Mount Gulug             (Disc 3)
+        :  Found in the Chocograph 24, Forgotten Island (Disc 3/4)
+        :  Buy from the Treno Auction                   (Disc 4)
+        :  Given to you by Stiltzkin at Alexandria      (Disc 4)
+
+Name:      Rosetta Ring
+Info:      "Ring with a fire god's spirit dwelling inside"
+Price:     24000 Gil
+Sell:      18000 Gil
+Magic:     +1
+Defence:   +1
+Evade:     +2
+Mag Def:   +3
+Mag Evade: +2
+Element:   Absorbs Fire
+Abilities: Concentrate, Level Up and Reflectx2
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Found in the Mountain Crack on the Lost Continent  (Disc 3/4)
+        :  Give Queen Stella at Treno 10 Stellazzio's         (Disc 3/4)
+        :  Dropped by the Friendly Yan                        (Disc 3/4)
+        :  Synth at the Black Mage Village                    (Disc 4)
+
+Name:      Ruby
+Info:      "Restores HP. It cannot be used in the field. Equip as an Add-on"
+Price:     N/A
+Sell:      1 Gil
+Effect:    Restores HP equal to # of Ruby x60
+Abilities: Carbuncle and Reflect
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Found in the Iifa Tree           (Disc 2)
+        :  Buy from Stiltzkin at Alexandria (Disc 4)
+
+Name:      Running Shoes
+Info:      "Shoes that allow you to walk with light steps"
+Price:     12000 Gil
+Sell:      16500 Gil
+Speed:     +2
+Evade:     +4
+Mag Evade: +4
+Abilities: Auto-Haste, Auto-Potion and Haste
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Defeat Tantarian at Alexandria Castle's Library   (Disc 2/3)
+        :  Defeat Amdusias at Treno's Weapon Shop            (Disc 3)
+        :  Got from the Grandfather Clock at Quan's Dwelling (Disc 3/4)
+        :  Synth at the Black Mage Village                   (Disc 4)
+        :  Steal from Hades                                  (Disc 4)
+
+Name:      Sandals
+Info:      "Provide a southern, tropical feel"
+Price:     N/A
+Sell:      600 Gil
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Found in the Dive Spot between the Mist+Outer Continent (Disc 3/4)
+
+Name:      Sapphire
+Info:      "Restores HP. It cannot be used in the field. Equip as an Add-on"
+Price:     200 Gil
+Sell:      1 Gil
+Effect:    Restores HP equal to # of Sapphire x76
+      :    Raises Fenrirs power by 1 for each Sapphire you have
+Abilities: Fenrir and High Tide
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Initially equipped to Eiko                 (Disc 2)
+        :  Found in Alexandria                        (Disc 3)
+        :  Found in the Chocograph 19, Cold Lagoon    (Disc 3/4)
+        :  Synth at Daguerreo                         (Disc 3/4)
+        :  Found in the Chocograph 22, Outer Island 2 (Disc 3/4)
+        :  Synth at the Black Mage Village            (Disc 4)
+        :  Synth at Hades Synthesis Shop              (Disc 4)
+
+Name:      Topaz
+Info:      "Restores HP. It cannot be used in the field. Equip as an Add-on"
+Price:     100 Gil
+Sell:      1 Gil
+Effect:    Restores HP equal to # of Topaz x92
+      :    Raises Ifrits power by 1 for each Topaz you have
+Abilities: Fira and Ifrit
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Given to you by Doctor Tot                   (Disc 3)
+        :  Found in Alexandria                          (Disc 3)
+        :  Found in the Chocograph 19, Cold Lagoon      (Disc 3/4)
+        :  Found in the Dive Spot below Quan's Dwelling (Disc 3/4)
+        :  Synth at Daguerreo                           (Disc 3/4)
+        :  Synth at the Black Mage Village              (Disc 4)
+        :  Synth at Hades Synthesis Shop                (Disc 4)
+
+Name:      Yellow Scarf
+Info:      "Scarf that raises strength"
+Price:     400 Gil
+Sell:      900 Gil
+Strength:  +2
+Mag Def:   +1
+Abilities: Bird Killer, Millionaire and Steal Gil
+Used by:   Zidane, Steiner, Vivi, Garnet, Amarant, Freya, Quina and Eiko
+Location:  Synth at Lindblum               (Disc 1/2/3/4)
+        :  Synth at Treno                  (Disc 2/3/4)
+        :  Found in Cleyra                 (Disc 2)
+        :  Synth at the Black Mage Village (Disc 2/3)
+        :  Synth at Alexandria             (Disc 3/4)
+        :  Initially equipped to Beatrix   (Disc 3)
