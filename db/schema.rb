@@ -24,6 +24,7 @@ ActiveRecord::Schema.define(version: 20180122232425) do
     t.json "find_sites", default: [], null: false
     t.json "buy_sites", default: [], null: false
     t.json "synth_sites", default: [], null: false
+    t.json "other_sites", default: [], null: false
     t.uuid "ingredient_1_id"
     t.uuid "ingredient_2_id"
     t.datetime "created_at", null: false

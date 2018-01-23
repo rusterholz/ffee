@@ -9,6 +9,7 @@ class InitializeDatabase < ActiveRecord::Migration[5.1]
       t.json    :find_sites, null: false, default: []
       t.json    :buy_sites, null: false, default: []
       t.json    :synth_sites, null: false, default: []
+      t.json    :other_sites, null: false, default: []
       t.uuid    :ingredient_1_id
       t.uuid    :ingredient_2_id
 
